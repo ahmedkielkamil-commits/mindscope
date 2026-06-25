@@ -1,0 +1,36 @@
+{
+  "Student's first name": "Marcus",
+  "Student's age": 14,
+  "Grade level": "9th",
+  "School name": "Westside High School",
+  "Developmental level": "Mild delay",
+  "Functional level": "1-2 years behind",
+  "Observed Behaviors": [
+    "Persistent avoidance of school or specific settings",
+    "Social withdrawal or isolation from peers",
+    "Visible anxiety or worry (excessive reassurance-seeking, physical complaints)",
+    "Mood appears persistently low or flat",
+    "Self-isolating during unstructured time (lunch, recess)"
+  ],
+  "How often do difficult moments occur?": "Daily",
+  "What most commonly triggers them?": [
+    "Academic demands",
+    "Social interaction",
+    "Unstructured time"
+  ],
+  "After a difficult moment, how long does recovery typically take?": "30–60 minutes",
+  "Where do these challenges show up most?": "Both structured and unstructured",
+  "How long have these behaviors been observed?": "1–3 months",
+  "Is this student currently receiving any of the following?": [
+    "School counseling services"
+  ],
+  "Has this student been referred for services before?": "No prior referral",
+  "What are this student's strongest observed qualities?": [
+    "Creativity or artistic ability",
+    "Strong relationship with at least one trusted adult",
+    "Persistence on preferred tasks"
+  ],
+  "Does this student have at least one stable, trusting relationship with an adult at school?": "Yes",
+  "What is your primary concern for this student right now?": "Social-emotional wellbeing",
+  "Urgency level in your judgment": "Elevated — needs services within the next few weeks"
+}

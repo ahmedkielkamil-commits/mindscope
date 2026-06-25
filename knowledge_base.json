@@ -1,0 +1,2722 @@
+{
+  "metadata": {
+    "compiled_date": "2026-06-17",
+    "source_count": 44,
+    "sources_successfully_fetched": [
+      "AACAP School Refusal — Facts for Families (https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/School-Refusal-007.aspx) — full page fetched [MindScope]",
+      "AACAP Children Who Won't Go To School / Separation Anxiety — Facts for Families (https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Children-Who-Won't-Go-To-School-%28Separation-Anxiety%29-007.aspx) — search snippet [MindScope]",
+      "AACAP Clinical Practice Guideline for Anxiety Disorders, JAACAP 2020 (https://www.jaacap.org/article/S0890-8567%2820%2930280-X/fulltext) — full page fetched; recommendation statements extracted [MindScope]",
+      "AACAP Depression in Children and Teens — Facts for Families (https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/The-Depressed-Child-004.aspx) — search snippet [MindScope]",
+      "AACAP Depression Resource Center — Resources for Clinicians (https://www.aacap.org/AACAP/Families_and_Youth/Resource_Centers/Depression_Resource_Center/Resources_for_Clinicians_Depression.aspx) — search snippet with detail [MindScope]",
+      "AACAP Treatment for Adolescents with Depression Study (TADS) summary (https://www.aacap.org/aacap/families_and_youth/Resources/Psychiatric_Medication/The_Treatment_for_Adolescents_with_Depression_Study_TADS.aspx) — search snippet with detail [MindScope]",
+      "AACAP Disruptive Mood Dysregulation Disorder (DMDD) — Facts for Families (https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Disruptive-Mood-Dysregulation-Disorder-_DMDD_-110.aspx) — search snippet with detail [MindScope]",
+      "AACAP Practice Parameter for Oppositional Defiant Disorder (https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/odd_practice_parameter.pdf) — full PDF fetched [MindScope]",
+      "AACAP Psychotherapies for Children and Adolescents: Different Types — Facts for Families (https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Psychotherapies-For-Children-And-Adolescents-086.aspx) — search snippet with detail [MindScope]",
+      "AACAP When To Seek Help For Your Child — Facts for Families (https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/When-To-Seek-Help-For-Your-Child-024.aspx) — search snippet [MindScope]",
+      "AACAP Disaster Resource Center — Resources for Clinicians and Parents, incl. PTSD parameter summary (https://www.aacap.org/AACAP/Families_and_Youth/Resource_Centers/Disaster_Resource_Center/Resources_for_Clinicians_Disaster.aspx) — search snippet [MindScope]",
+      "NIMH CBT Alters Brain Activity in Children With Anxiety (https://www.nimh.nih.gov/news/science-news/2024/cognitive-behavioral-therapy-alters-brain-activity-in-children-with-anxiety) — search snippet with detail [MindScope]",
+      "NIMH Psychotherapies (https://www.nimh.nih.gov/health/topics/psychotherapies) — search snippet with detail [MindScope]",
+      "NIMH Depression publication (https://www.nimh.nih.gov/health/publications/depression) — search snippet with detail [MindScope]",
+      "NIMH Study Identifies Three Effective Treatments for Childhood Anxiety (CAMS) (https://www.nimh.nih.gov/news/science-updates/2008/study-identifies-three-effective-treatments-for-childhood-anxiety-disorders) — search snippet with detail [MindScope]",
+      "NIMH Therapy Reduces Risk in Suicidal Youth (DBT) (https://www.nimh.nih.gov/news/science-updates/2018/therapy-reduces-risk-in-suicidal-youth) — search snippet with detail [MindScope]",
+      "NIMH Child and Adolescent Mental Health (https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health) — search snippet with detail [MindScope]",
+      "NIMH Frequently Asked Questions About Suicide (https://www.nimh.nih.gov/health/publications/suicide-faq) — search snippet with detail [MindScope]",
+      "NIMH Ask Suicide-Screening Questions (ASQ) Toolkit and Youth ASQ Toolkit (https://www.nimh.nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials) — search snippet with detail [MindScope]",
+      "NIMH Disruptive Mood Dysregulation Disorder publication (https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder) — search snippet with detail [MindScope]",
+      "SAMHSA Trauma-Focused Cognitive Behavioral Therapy (TF-CBT) (https://www.samhsa.gov/resource/dbhis/trauma-focused-cognitive-behavioral-therapy-tf-cbt) — search snippet with detail [MindScope]",
+      "SAMHSA School-Based Trauma-Informed Support Services (TISS) (https://www.samhsa.gov/mental-health/children-and-families/school-health/tiss) — full page fetched [MindScope]",
+      "SAMHSA 988 Suicide & Crisis Lifeline FAQ (https://www.samhsa.gov/mental-health/988/faqs) — full page fetched [MindScope]",
+      "CDC Treating Children's Mental Health with Therapy (https://www.cdc.gov/children-mental-health/treatment/index.html) — search snippet with detail [MindScope]",
+      "CDC Anxiety and Depression in Children (https://www.cdc.gov/children-mental-health/about/about-anxiety-and-depression-in-children.html) — search snippet with detail [MindScope]",
+      "CDC Behavior or Conduct Problems in Children (https://www.cdc.gov/children-mental-health/about/about-behavior-or-conduct-problems-in-children.html) — search snippet with detail [MindScope]",
+      "CDC About Children's Mental Health (https://www.cdc.gov/children-mental-health/about/index.html) — search snippet [MindScope]",
+      "AAP HealthyChildren Teen Mental Health: Watch for Danger Signs (https://www.healthychildren.org/English/ages-stages/teen/Pages/Mental-Health-and-Teens-Watch-for-Danger-Signs.aspx) — search snippet with detail [MindScope]",
+      "AAP HealthyChildren Teen Suicide Risk: What Parents Need to Know (https://www.healthychildren.org/English/healthy-living/emotional-wellness/Pages/teen-suicide-risk-what-parents-need-to-know.aspx) — search snippet with detail [MindScope]",
+      "AAP Blueprint for Youth Suicide Prevention — Risk/Protective Factors and Warning Signs (https://www.aap.org/en/patient-care/blueprint-for-youth-suicide-prevention/risk-factors-protective-factors-warning-signs-of-youth-suicide/) — search snippet with detail [MindScope]",
+      "University of North Texas Center for Play Therapy — Child-Centered Play Therapy (https://cpt.unt.edu/about-play-therapy/child-centered-play-therapy) — search snippet with detail [MindScope]",
+      "Yale Medicine — Disruptive Mood Dysregulation Disorder fact sheet (https://www.yalemedicine.org/conditions/disruptive-mood-dysregulation-disorder) — search snippet with detail [MindScope]",
+      "University of Washington / McCauley et al., JAMA Psychiatry 2018 — DBT for Adolescents at High Risk for Suicide RCT (http://depts.washington.edu/uwbrtc/wp-content/uploads/jamapsychiatry_McCauley_2018_oi_180032.pdf) — full PDF fetched [MindScope]",
+      "CDC Treatment and Intervention for ASD (https://www.cdc.gov/autism/treatment/index.html) — full page fetched",
+      "CDC Accessing Services for ASD (https://www.cdc.gov/autism/treatment/accessing-services.html) — search snippet",
+      "CDC Treatment of ADHD (https://www.cdc.gov/adhd/treatment/index.html) — search snippet with detail",
+      "CDC Behavior Therapy First for Young Children with ADHD (https://www.cdc.gov/adhd/articles/behavior-therapy-first-young-children.html) — search snippet with detail",
+      "CDC Clinical Care of ADHD (https://www.cdc.gov/adhd/hcp/treatment-recommendations/index.html) — search snippet with detail",
+      "CHADD Treatment Overview (https://chadd.org/for-parents/treatment-overview/) — search snippet",
+      "CHADD Psychosocial Treatments (https://chadd.org/for-parents/psychosocial-treatments/) — search snippet with detail",
+      "CHADD Medication in ADHD Treatment (https://chadd.org/for-parents/medication-in-adhd-treatment/) — search snippet",
+      "Autism Speaks 100 Day Kit — Young Children (https://docs.autismspeaks.org/100-day-kit-young-children/) — partial fetch plus search snippets",
+      "Autism Speaks 100 Day Kit — School Age Children (https://docs.autismspeaks.org/100-day-kit-school-age-children/) — search snippets",
+      "ASHA Late Language Emergence Practice Portal (https://www.asha.org/practice-portal/clinical-topics/late-language-emergence/) — search snippet",
+      "ASHA Spoken Language Disorders Practice Portal (https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/) — search snippet",
+      "ASHA Public Info: Childhood Spoken Language Disorders (https://www.asha.org/public/speech/disorders/preschool-language-disorders/) — search snippet",
+      "NIDCD Speech and Language Developmental Milestones (https://www.nidcd.nih.gov/health/speech-and-language) — search snippet",
+      "NIDCD Developmental Language Disorder (https://www.nidcd.nih.gov/health/developmental-language-disorder) — search snippet",
+      "AOTA Practice Guidelines for Sensory Integration (https://library.aota.org/vv10ai/) — search snippet",
+      "AOTA Position Statement on Sensory Integration (https://research.aota.org/ajot/article/77/Supplement%203/7713410230/) — search snippet",
+      "AOTA ASI School-Based Practice Article (https://research.aota.org/ajot/article/79/1/7901347020/) — search snippet",
+      "STAR Institute Treatment Page (https://sensoryhealth.org/landing-page/treatment) — search snippet",
+      "STAR Institute How SPD Is Treated (https://sensoryhealth.org/basic/how-spd-treated) — search snippet",
+      "STAR Institute FAQ (https://sensoryhealth.org/basic/therapy-frequently-asked-questions-0) — search snippet"
+    ],
+    "sources_failed": [
+      "AAP Clinical Report on ASD (publications.aap.org) — full text behind paywall (403 error); used search snippet abstracts and AAP News summary only",
+      "AAP ADHD Clinical Practice Guideline 2019 (publications.aap.org) — full text behind paywall (403 error); used search snippet abstracts and CDC/CHADD references to AAP recommendations",
+      "AAP Developmental Screening Guidelines (publications.aap.org) — not separately fetched; referenced indirectly via CDC and other source snippets",
+      "ABAI Autism SIG Consumer Guidelines (abainternational.org) — no direct ABAI page found; used third-party summary from asatonline.org",
+      "Autism Speaks 100 Day Kit therapy section — direct therapy sub-pages could not be fetched (permission error); used search snippets from docs.autismspeaks.org and older PDF versions",
+      "AOTA full practice guidelines — behind paywall; used search snippets from research.aota.org and library.aota.org abstracts",
+      "AACAP Clinical Practice Guideline for Major and Persistent Depressive Disorders, JAACAP 2022 (sciencedirect.com S0890856722018524) — full text behind paywall; used abstract plus AACAP Depression Resource Center and TADS summaries [MindScope]",
+      "AACAP Practice Parameter for PTSD, JAACAP 2010 (sciencedirect.com S0890856710000821) — full text behind paywall; used abstract plus AACAP Disaster Resource Center summaries [MindScope]"
+    ],
+    "methodology": "Extracted only from directly retrieved clinical sources during this session. No LLM inference used for intervention recommendations. Common aliases field uses general knowledge for alternate phrasings only. All intervention entries include source attribution. The 2026-06-17 update added the MindScope behavioral/emotional condition set (anxiety_school_avoidance, emotional_dysregulation, depression_withdrawal, trauma_response, oppositional_defiant_behavior, social_isolation, self_harm_risk) for a school-based behavioral health care plan system. New conditions were sourced only from SAMHSA, NIMH, AACAP, CDC, AAP, and university medical centers (University of North Texas Center for Play Therapy, Yale Medicine, University of Washington). Conditions reflect behavioral presentations observed by guidance counselors rather than formal DSM diagnoses; where a presentation (e.g., social_isolation, emotional_dysregulation, self_harm_risk) is not itself a diagnosis, recommendations were mapped from the closest evidence-based clinical literature and caveats are recorded in source_notes and gaps_and_limitations. New-condition entries use the category set therapy, evaluation, school_support, medication_management, community_support. The therapy_to_query_map sibling key was added to translate intervention names into external-API search terminology. This knowledge base is not a crisis-response tool; self_harm_risk entries point to the 988 Suicide & Crisis Lifeline."
+  },
+  "conditions": {
+    "autism_spectrum_disorder": {
+      "display_name": "Autism Spectrum Disorder (ASD)",
+      "age_groups": {
+        "3-5": {
+          "recommended": [
+            {
+              "intervention": "Applied Behavior Analysis (ABA)",
+              "common_aliases": ["ABA", "ABA therapy", "behavior therapy", "behavioral intervention", "intensive behavioral intervention"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "Behavioral approaches have the most evidence for treating symptoms of ASD and are widely accepted among educators and healthcare professionals. Early intensive behavioral intervention improves outcomes for many children with autism.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "Behavioral approaches have the most evidence for treating symptoms of ASD. ABA encourages desired behaviors and discourages undesired behaviors."
+                },
+                {
+                  "organization": "AAP (via AAP News summary)",
+                  "url": "https://publications.aap.org/aapnews/news/7662/Autism-AAP-guidance-includes-updates-searchable",
+                  "what_it_said": "Evidence supports the use of behavioral interventions (e.g., applied behavior analysis) for skill building."
+                },
+                {
+                  "organization": "Autism Speaks",
+                  "url": "https://www.autismspeaks.org/applied-behavior-analysis",
+                  "what_it_said": "ABA is considered an evidence-based best practice treatment by the US Surgeon General and by the American Psychological Association."
+                }
+              ],
+              "source_notes": "CDC, AAP, and Autism Speaks all endorse ABA for children with ASD. Programs providing 25-40 hours/week for 1-3 years show gains per Autism Speaks. The ESDM variant is specifically for ages 12-48 months."
+            },
+            {
+              "intervention": "Early Start Denver Model (ESDM)",
+              "common_aliases": ["ESDM", "Denver Model", "early intervention ABA"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "ESDM is a broad developmental approach based on ABA principles used with children 12-48 months. Parents and therapists use play and social exchanges to improve language, social, and learning skills.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "ESDM is used with children 12-48 months of age. Parents and therapists use play, social exchanges in natural settings to improve language and social skills."
+                }
+              ],
+              "source_notes": "Age-specific to 12-48 months. Falls at the younger end of this age bracket."
+            },
+            {
+              "intervention": "Speech and Language Therapy",
+              "common_aliases": ["speech therapy", "SLT", "speech-language pathology", "SLP services", "language therapy"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "Speech and language therapy is the most common developmental therapy for people with ASD, helping improve understanding and use of speech and language. Most children with ASD participate in it.",
+              "rationale_source": "CDC / Autism Speaks",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "The most common developmental therapy for people with ASD is speech and language therapy, which improves understanding and use of speech and language."
+                },
+                {
+                  "organization": "Autism Speaks",
+                  "url": "https://docs.autismspeaks.org/100-day-kit-young-children/treatment-for-associated-conditions",
+                  "what_it_said": "Most children with ASD participate in speech-language therapy. SLT addresses a range of challenges often faced by people with autism."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. Placed here as applicable across all ages."
+            },
+            {
+              "intervention": "Occupational Therapy",
+              "common_aliases": ["OT", "occupational therapy for autism", "fine motor therapy", "daily living skills therapy"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Occupational therapy teaches skills that help the person live as independently as possible, including dressing, eating, bathing, and relating to people. It can include sensory integration therapy.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "Occupational therapy teaches skills for independent living including dressing, eating, bathing, and can include sensory integration therapy."
+                },
+                {
+                  "organization": "Autism Speaks",
+                  "url": "https://docs.autismspeaks.org/100-day-kit-young-children/treatment-for-associated-conditions",
+                  "what_it_said": "Occupational therapy addresses a combination of cognitive, physical and motor skills to increase independence and participation."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. CDC also notes OT may include sensory integration therapy and physical therapy components."
+            },
+            {
+              "intervention": "Early Intervention Services (Part C / IDEA)",
+              "common_aliases": ["EI", "early intervention", "Part C services", "IDEA services", "birth-to-three services"],
+              "category": "community_support",
+              "severity_if_missing": "critical",
+              "rationale": "Early intervention services help children from birth to 3 years learn important skills. Research shows early intervention can greatly improve a child's development.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/accessing-services.html",
+                  "what_it_said": "Early intervention services help children from birth to 3 years learn important skills. Research shows early intervention can greatly improve development."
+                },
+                {
+                  "organization": "AAP (via AAP News summary)",
+                  "url": "https://publications.aap.org/aapnews/news/7662/Autism-AAP-guidance-includes-updates-searchable",
+                  "what_it_said": "Pediatricians should refer children to early intervention (0-3 years) or school services to initiate services."
+                }
+              ],
+              "source_notes": "Primarily for ages 0-3, but transition to school-based services occurs at age 3. Still relevant as transition planning for 3-5 age group."
+            },
+            {
+              "intervention": "Individualized Education Program (IEP) / School-Based Services",
+              "common_aliases": ["IEP", "special education", "504 plan", "school services", "IDEA Part B"],
+              "category": "school_support",
+              "severity_if_missing": "critical",
+              "rationale": "Children with disabilities, including ASD, may be eligible for services through the local education system beginning at age 3. Eligible children can begin to receive services prior to formally starting school.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/accessing-services.html",
+                  "what_it_said": "Children with ASD may be eligible for services through local education beginning at age 3. They often have an IEP or 504 plan."
+                }
+              ],
+              "source_notes": "Applies from age 3 onward under IDEA Part B."
+            },
+            {
+              "intervention": "DIR/Floortime",
+              "common_aliases": ["Floortime", "DIR model", "Developmental Individual Differences Relationship-based model", "Floor Time"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "DIR encourages parents and therapists to follow the interests of the individual to expand opportunities for communication.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "The Developmental, Individual Differences, Relationship-Based model (DIR or Floortime) follows the child's interests to expand communication opportunities."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. Listed as a social-relational approach by CDC."
+            },
+            {
+              "intervention": "Parent Training and Education",
+              "common_aliases": ["parent coaching", "caregiver training", "parent-mediated intervention"],
+              "category": "parent_training",
+              "severity_if_missing": "high",
+              "rationale": "Behavioral therapists providing ABA and other interventions play a critical role in a child's treatment. Parents should select interventionists who view the family as teammates.",
+              "rationale_source": "Autism Speaks",
+              "sources": [
+                {
+                  "organization": "Autism Speaks",
+                  "url": "https://docs.autismspeaks.org/100-day-kit-young-children/living-with-autism",
+                  "what_it_said": "Families who are required to implement drill-type interventions have greater stress. Interventions incorporated into daily routines are preferred."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. Autism Speaks emphasizes families as teammates in intervention."
+            }
+          ]
+        },
+        "6-12": {
+          "recommended": [
+            {
+              "intervention": "Applied Behavior Analysis (ABA)",
+              "common_aliases": ["ABA", "ABA therapy", "behavior therapy", "behavioral intervention"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "ABA encourages desired behaviors and discourages undesired behaviors to improve a variety of skills. Progress is tracked and measured.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "ABA encourages desired behaviors and discourages undesired behaviors to improve a variety of skills. Progress is tracked and measured."
+                },
+                {
+                  "organization": "Autism Speaks",
+                  "url": "https://www.autismspeaks.org/applied-behavior-analysis",
+                  "what_it_said": "More than 20 studies show intensive ABA therapy (25-40 hours/week) improves intellectual functioning, language, daily living, and social functioning."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. ABA continues to be evidence-based across childhood."
+            },
+            {
+              "intervention": "Speech and Language Therapy",
+              "common_aliases": ["speech therapy", "SLT", "SLP services", "language therapy", "communication therapy"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "Most children with ASD participate in speech-language therapy. SLT coordinates the mechanics of speech with the meaning and social use of language.",
+              "rationale_source": "Autism Speaks",
+              "sources": [
+                {
+                  "organization": "Autism Speaks",
+                  "url": "https://docs.autismspeaks.org/100-day-kit-school-age-children/treatment-for-associated-conditions",
+                  "what_it_said": "Most children with ASD participate in speech-language therapy. SLT coordinates speech mechanics with meaning and social use of language."
+                },
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "Speech and language therapy helps improve understanding and use of speech and language."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific."
+            },
+            {
+              "intervention": "Occupational Therapy",
+              "common_aliases": ["OT", "occupational therapy", "sensory integration OT", "daily living skills"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "OT helps the person increase independence and participate more fully in life. It often includes sensory integration therapy to improve responses to sensory input.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "OT can include sensory integration therapy to improve responses to sensory input that may be restrictive or overwhelming."
+                },
+                {
+                  "organization": "Autism Speaks",
+                  "url": "https://docs.autismspeaks.org/100-day-kit-school-age-children/treatment-for-associated-conditions",
+                  "what_it_said": "OT addresses cognitive, physical and motor skills. Goals include increasing independence and full participation in life."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific."
+            },
+            {
+              "intervention": "TEACCH (Treatment and Education of Autistic and Related Communication-Handicapped Children)",
+              "common_aliases": ["TEACCH", "structured teaching", "visual learning approach"],
+              "category": "school_support",
+              "severity_if_missing": "moderate",
+              "rationale": "TEACCH is based on the idea that people with autism thrive on consistency and visual learning. It provides ways to adjust classroom structure and improve academic outcomes.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "TEACCH is based on consistency and visual learning. It adjusts classroom structure and improves academic and other outcomes."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. Classified as an educational approach by CDC. Most applicable in school-age settings."
+            },
+            {
+              "intervention": "Social Skills Training / Social Skills Groups",
+              "common_aliases": ["social skills groups", "social skills training", "peer interaction training", "social communication groups"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Social skills groups provide opportunities for people with ASD to practice social skills in a structured environment.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "Social skills groups provide opportunities for people with ASD to practice social skills in a structured environment."
+                },
+                {
+                  "organization": "Autism Speaks",
+                  "url": "https://docs.autismspeaks.org/100-day-kit-school-age-children/treatment-for-associated-conditions",
+                  "what_it_said": "Social skills training in one-on-one and peer group settings is a common treatment for individuals with autism."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. Autism Speaks notes it is not an official certified therapy but commonly provided."
+            },
+            {
+              "intervention": "Cognitive Behavior Therapy (CBT)",
+              "common_aliases": ["CBT", "cognitive behavioral therapy", "talk therapy for anxiety"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "CBT focuses on learning connections between thoughts, feelings, and behaviors. It can help people with ASD cope with anxiety, depression, and other mental health issues.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "CBT focuses on learning connections between thoughts, feelings, and behaviors to help cope with anxiety, depression, and other mental health issues."
+                },
+                {
+                  "organization": "CDC (referencing Reaven et al.)",
+                  "url": "https://www.cdc.gov/autism/treatment/accessing-services.html",
+                  "what_it_said": "Group CBT for children with high-functioning ASD and anxiety showed positive outcomes in a randomized trial."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. CDC references a trial specifically for children with high-functioning ASD and anxiety."
+            },
+            {
+              "intervention": "Individualized Education Program (IEP) / School-Based Services",
+              "common_aliases": ["IEP", "special education", "504 plan", "school accommodations"],
+              "category": "school_support",
+              "severity_if_missing": "critical",
+              "rationale": "Children with ASD often have an IEP or a 504 plan. Eligible children can receive services through the local education system.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/accessing-services.html",
+                  "what_it_said": "Children with ASD often have an IEP or 504 plan. Eligible children can begin services even prior to formally starting school."
+                }
+              ],
+              "source_notes": "General recommendation — applies from age 3 onward."
+            },
+            {
+              "intervention": "Medication Management for Co-Occurring Conditions",
+              "common_aliases": ["medication review", "psychiatric medication", "pharmacological treatment"],
+              "category": "medication_review",
+              "severity_if_missing": "moderate",
+              "rationale": "There are no medications that treat core ASD symptoms, but some medications treat co-occurring symptoms like high energy, inability to focus, anxiety, depression, seizures, or sleep problems.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "No medications treat core ASD symptoms. Some treat co-occurring symptoms like energy, focus, self-harm, anxiety, depression, seizures, and sleep."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. CDC emphasizes working with a doctor experienced in treating ASD."
+            },
+            {
+              "intervention": "Augmentative and Alternative Communication (AAC)",
+              "common_aliases": ["AAC", "communication device", "picture exchange", "PECS", "assistive technology"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "For those who have trouble communicating with speech, speech-language pathologists determine the best AAC device and method. Research shows AAC can help children increase speech skills.",
+              "rationale_source": "Autism Speaks",
+              "sources": [
+                {
+                  "organization": "Autism Speaks",
+                  "url": "https://docs.autismspeaks.org/100-day-kit-school-age-children/treatment-for-associated-conditions",
+                  "what_it_said": "SLPs can help a child learn to communicate through augmentative and alternative communication (AAC) devices or strategies."
+                },
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "Some people with ASD may communicate through signs, gestures, pictures, or an electronic communication device."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. Applicable where verbal communication is limited."
+            }
+          ]
+        },
+        "13-18": {
+          "recommended": [
+            {
+              "intervention": "Applied Behavior Analysis (ABA) — continued or focused",
+              "common_aliases": ["ABA", "ABA therapy", "behavior therapy"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "ABA encourages desired behaviors and discourages undesired behaviors. Studies with adults using ABA principles show similar benefits to those found in children.",
+              "rationale_source": "Autism Speaks",
+              "sources": [
+                {
+                  "organization": "Autism Speaks",
+                  "url": "https://www.autismspeaks.org/applied-behavior-analysis",
+                  "what_it_said": "Studies with adults using ABA principles, though fewer in number, show similar benefits."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. Intensity and focus may shift for adolescents toward independence skills."
+            },
+            {
+              "intervention": "Cognitive Behavior Therapy (CBT)",
+              "common_aliases": ["CBT", "cognitive behavioral therapy", "anxiety therapy", "mental health therapy"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "CBT can help people with ASD cope with anxiety, depression, and other mental health issues commonly co-occurring in adolescence.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "CBT focuses on connections between thoughts, feelings, and behaviors to help with anxiety, depression, and other mental health issues."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. Particularly relevant for adolescents who may have increased anxiety and depression."
+            },
+            {
+              "intervention": "Speech and Language Therapy",
+              "common_aliases": ["speech therapy", "SLT", "pragmatic language therapy", "social communication therapy"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "SLT addresses a range of challenges including understanding nuances of language and nonverbal cues in conversation.",
+              "rationale_source": "Autism Speaks",
+              "sources": [
+                {
+                  "organization": "Autism Speaks",
+                  "url": "https://docs.autismspeaks.org/100-day-kit-school-age-children/treatment-for-associated-conditions",
+                  "what_it_said": "SLT addresses challenges including trouble having a conversation or understanding language nuances and nonverbal cues."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. Focus may shift to pragmatic/social language for adolescents."
+            },
+            {
+              "intervention": "Social Skills Training",
+              "common_aliases": ["social skills groups", "social communication training", "peer skills"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Social skills groups provide opportunities to practice social skills in structured environments, which is important for adolescent social development.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "Social skills groups provide opportunities for people with ASD to practice social skills in a structured environment."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific."
+            },
+            {
+              "intervention": "Transition Planning Services",
+              "common_aliases": ["transition to adulthood", "transition planning", "adult services preparation", "vocational planning"],
+              "category": "community_support",
+              "severity_if_missing": "high",
+              "rationale": "As individuals with ASD leave high school and grow into adulthood, additional services can help improve health, daily functioning, and facilitate social and community engagement.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "As individuals with ASD leave high school, additional services can help improve health, daily functioning, and community engagement."
+                },
+                {
+                  "organization": "AAP (via executive summary snippet)",
+                  "url": "https://publications.aap.org/pediatrics/article/145/1/e20193448/37021/Executive-Summary-Identification-Evaluation-and",
+                  "what_it_said": "Preparing the youth and family for transition to adult services is a critical role for pediatric health care providers."
+                }
+              ],
+              "source_notes": "Specifically relevant for adolescents approaching adulthood."
+            },
+            {
+              "intervention": "Medication Management for Co-Occurring Conditions",
+              "common_aliases": ["medication review", "psychiatric medication", "pharmacotherapy"],
+              "category": "medication_review",
+              "severity_if_missing": "moderate",
+              "rationale": "Some medications treat co-occurring symptoms and can help people with ASD function better, including for anxiety, depression, seizures, and sleep problems.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/index.html",
+                  "what_it_said": "Some medications treat co-occurring symptoms and can help people with ASD function better."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. Particularly relevant in adolescence when co-occurring conditions may increase."
+            },
+            {
+              "intervention": "IEP / 504 Plan / School-Based Services",
+              "common_aliases": ["IEP", "504 plan", "special education", "school accommodations"],
+              "category": "school_support",
+              "severity_if_missing": "critical",
+              "rationale": "Children and adolescents with ASD need continued educational support through school-based services.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/autism/treatment/accessing-services.html",
+                  "what_it_said": "Children with ASD often have an IEP or 504 plan."
+                }
+              ],
+              "source_notes": "General recommendation — applies through age 21 under IDEA."
+            }
+          ]
+        }
+      }
+    },
+    "adhd": {
+      "display_name": "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+      "age_groups": {
+        "3-5": {
+          "recommended": [
+            {
+              "intervention": "Parent Training in Behavior Management",
+              "common_aliases": ["parent behavior training", "PTBM", "behavioral parent training", "parent management training"],
+              "category": "parent_training",
+              "severity_if_missing": "critical",
+              "rationale": "For children with ADHD younger than 6, the AAP recommends parent training in behavior management as the first line of treatment, before medication is tried.",
+              "rationale_source": "CDC / AAP",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/adhd/treatment/index.html",
+                  "what_it_said": "For children under 6, AAP recommends parent training in behavior management as the first line of treatment, before medication."
+                },
+                {
+                  "organization": "CDC (Behavior Therapy First)",
+                  "url": "https://www.cdc.gov/adhd/articles/behavior-therapy-first-young-children.html",
+                  "what_it_said": "Behavior therapy is the recommended first treatment for children under 6. Parent training is the most effective type for this age."
+                },
+                {
+                  "organization": "CHADD",
+                  "url": "https://chadd.org/for-parents/preschoolers-and-adhd/",
+                  "what_it_said": "AAP calls for behavioral treatments first and medication only when needed for preschool-aged children."
+                }
+              ],
+              "source_notes": "Strong consensus across CDC, AAP, and CHADD that parent training is first-line for preschool-aged children with ADHD."
+            },
+            {
+              "intervention": "Behavior Therapy (Child-Focused)",
+              "common_aliases": ["behavior therapy", "behavioral intervention", "behavior modification"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "Behavior therapy works as well as medication in young children with ADHD in helping manage symptoms. Studies show improvements that persist for several years after treatment.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/adhd/articles/behavior-therapy-first-young-children.html",
+                  "what_it_said": "Behavior therapy works as well as medication in young children with ADHD. Improvements persist for several years after treatment."
+                },
+                {
+                  "organization": "CHADD",
+                  "url": "https://chadd.org/for-parents/psychosocial-treatments/",
+                  "what_it_said": "Behavior modification is the only nonmedical treatment for ADHD with a large scientific evidence base."
+                }
+              ],
+              "source_notes": "CDC strongly recommends behavior therapy BEFORE medication for this age group."
+            },
+            {
+              "intervention": "Methylphenidate (if behavioral interventions insufficient)",
+              "common_aliases": ["Ritalin", "stimulant medication", "ADHD medication"],
+              "category": "medication_review",
+              "severity_if_missing": "moderate",
+              "rationale": "Methylphenidate may be used in children 4-6 years if behavioral interventions do not provide significant improvement and the child continues to have serious problems.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/adhd/hcp/treatment-recommendations/index.html",
+                  "what_it_said": "Methylphenidate may be used in children 4-6 years if behavioral interventions do not provide significant improvement."
+                },
+                {
+                  "organization": "CHADD",
+                  "url": "https://chadd.org/for-parents/preschoolers-and-adhd/",
+                  "what_it_said": "AAP recommends starting children ages 4-5 on a methylphenidate trial beginning with a low dose when medication is prescribed."
+                }
+              ],
+              "source_notes": "CDC and AAP recommend this ONLY after behavior therapy has been tried. Side effects may be more severe in younger children."
+            }
+          ]
+        },
+        "6-12": {
+          "recommended": [
+            {
+              "intervention": "Combination of Behavior Therapy and Medication",
+              "common_aliases": ["multimodal treatment", "combined treatment", "behavior therapy plus medication"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "For children 6 years and older, the AAP recommends medication and behavior therapy together. Combining treatments is more effective than either alone.",
+              "rationale_source": "CDC / CHADD",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/adhd/treatment/index.html",
+                  "what_it_said": "For children 6 and older, recommendations include medication and behavior therapy together — parent training for up to 12 and other therapy for adolescents."
+                },
+                {
+                  "organization": "CHADD",
+                  "url": "https://chadd.org/about-adhd/treatment-of-adhd/",
+                  "what_it_said": "Research confirms that combining behavioral and stimulant treatments are more effective than either treatment alone."
+                }
+              ],
+              "source_notes": "Strong consensus. The NIMH MTA study showed significant improvement with combined behavioral and medication treatment."
+            },
+            {
+              "intervention": "Stimulant Medication",
+              "common_aliases": ["stimulants", "Ritalin", "Adderall", "methylphenidate", "amphetamine", "ADHD medication"],
+              "category": "medication_review",
+              "severity_if_missing": "high",
+              "rationale": "Stimulants are the best-known and most widely used ADHD medications. Between 70-80% of children have fewer ADHD symptoms when taking these medications.",
+              "rationale_source": "CDC / CHADD",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/adhd/treatment/index.html",
+                  "what_it_said": "Stimulants are the most widely used ADHD medications. 70-80% of children have fewer symptoms when taking these fast-acting medications."
+                },
+                {
+                  "organization": "CHADD",
+                  "url": "https://chadd.org/for-parents/medication-in-adhd-treatment/",
+                  "what_it_said": "Stimulants are the most widely used medications for managing ADHD symptoms, stimulating the dopamine system."
+                }
+              ],
+              "source_notes": "CDC recommends healthcare providers observe and adjust dose to balance benefits and side effects."
+            },
+            {
+              "intervention": "Parent Training in Behavior Management",
+              "common_aliases": ["parent behavior training", "behavioral parent training", "parent management training"],
+              "category": "parent_training",
+              "severity_if_missing": "high",
+              "rationale": "Parent training in behavior management is recommended for children up to age 12 as part of behavioral treatment for ADHD.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/adhd/treatment/index.html",
+                  "what_it_said": "Parent training in behavior management is recommended for children up to age 12."
+                }
+              ],
+              "source_notes": "CDC specifies this is recommended up to age 12."
+            },
+            {
+              "intervention": "Behavioral Classroom Interventions",
+              "common_aliases": ["classroom behavior management", "school-based behavior therapy", "teacher interventions"],
+              "category": "school_support",
+              "severity_if_missing": "high",
+              "rationale": "Behavioral classroom interventions are recommended as part of the multimodal treatment approach for school-age children with ADHD.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/adhd/hcp/treatment-recommendations/index.html",
+                  "what_it_said": "Behavioral classroom interventions (if available) are recommended for children ages 6 and older."
+                }
+              ],
+              "source_notes": "CDC notes 'if available' suggesting these may not be universally accessible."
+            },
+            {
+              "intervention": "Organizational Skills Training",
+              "common_aliases": ["organizational skills", "executive function training", "study skills"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "Organizational skills training is considered an effective behavioral intervention for school-age children with ADHD.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/adhd/treatment/index.html",
+                  "what_it_said": "Organizational skills training is listed as an effective behavior therapy for children ages 6 and older."
+                }
+              ],
+              "source_notes": "Listed by CDC as one of several effective behavioral therapy types for this age group."
+            },
+            {
+              "intervention": "Mental Health Counseling",
+              "common_aliases": ["counseling", "therapy", "psychotherapy", "family therapy"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "A comprehensive treatment plan can include mental health counseling to address relationship, self-esteem, discipline and parenting concerns.",
+              "rationale_source": "CHADD",
+              "sources": [
+                {
+                  "organization": "CHADD",
+                  "url": "https://chadd.org/for-parents/treatment-overview/",
+                  "what_it_said": "A comprehensive plan can include mental health counseling for self-esteem, discipline, parenting, and co-occurring conditions."
+                }
+              ],
+              "source_notes": "CHADD recommends this as part of comprehensive multimodal treatment."
+            },
+            {
+              "intervention": "Assessment and Treatment of Co-Occurring Conditions",
+              "common_aliases": ["comorbidity assessment", "co-occurring conditions evaluation", "comorbid treatment"],
+              "category": "evaluation",
+              "severity_if_missing": "high",
+              "rationale": "The 2019 AAP guideline added a key action statement specifically related to diagnosis and treatment of comorbid conditions in children with ADHD.",
+              "rationale_source": "AAP (via guideline abstract)",
+              "sources": [
+                {
+                  "organization": "AAP",
+                  "url": "https://publications.aap.org/pediatrics/article/144/4/e20192528/81590/Clinical-Practice-Guideline-for-the-Diagnosis",
+                  "what_it_said": "The 2019 revision added a key action statement on diagnosis and treatment of comorbid conditions in children with ADHD."
+                },
+                {
+                  "organization": "CHADD",
+                  "url": "https://chadd.org/about-adhd/overview/",
+                  "what_it_said": "More than two-thirds of children with ADHD have at least one other co-existing condition including anxiety, depression, and learning disabilities."
+                }
+              ],
+              "source_notes": "Nearly 78% of children with ADHD have at least one co-occurring condition per CDC 2022 survey data."
+            }
+          ]
+        },
+        "13-18": {
+          "recommended": [
+            {
+              "intervention": "Combination of Behavior Therapy and Medication",
+              "common_aliases": ["multimodal treatment", "combined treatment"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "For adolescents, the AAP recommends combining medication treatment with behavior therapy including other types of behavior therapy and training.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/adhd/treatment/index.html",
+                  "what_it_said": "For ages 6+, recommendations include medication and behavior therapy together, with other types of behavior therapy for adolescents."
+                }
+              ],
+              "source_notes": "CDC specifies 'other types of behavior therapy and training for adolescents' vs parent training for younger children."
+            },
+            {
+              "intervention": "Stimulant Medication",
+              "common_aliases": ["stimulants", "ADHD medication", "methylphenidate", "amphetamine"],
+              "category": "medication_review",
+              "severity_if_missing": "high",
+              "rationale": "Stimulant medications are the most widely used and effective pharmacological treatment for ADHD symptoms in adolescents.",
+              "rationale_source": "CDC / CHADD",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/adhd/treatment/index.html",
+                  "what_it_said": "Stimulants are the best-known and most widely used ADHD medications. 70-80% of children have fewer symptoms."
+                },
+                {
+                  "organization": "CHADD",
+                  "url": "https://chadd.org/for-parents/medication-in-adhd-treatment/",
+                  "what_it_said": "Stimulants stimulate the dopamine system and are effective in decreasing ADHD symptoms for most children with ADHD."
+                }
+              ],
+              "source_notes": "CDC recommends medications should be used with adolescent approval per AAP guideline."
+            },
+            {
+              "intervention": "Nonstimulant Medication (when stimulants insufficient)",
+              "common_aliases": ["nonstimulant", "Strattera", "atomoxetine", "guanfacine", "clonidine"],
+              "category": "medication_review",
+              "severity_if_missing": "moderate",
+              "rationale": "Nonstimulants were approved for ADHD treatment in 2003 and may be used when stimulants don't work or have unacceptable side effects.",
+              "rationale_source": "CDC / CHADD",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/adhd/treatment/index.html",
+                  "what_it_said": "Nonstimulants were approved for ADHD treatment in 2003. Their effect can last up to 24 hours."
+                },
+                {
+                  "organization": "CHADD",
+                  "url": "https://chadd.org/for-parents/medication-in-adhd-treatment/",
+                  "what_it_said": "Nonstimulant medications may be used when stimulants don't work well, have unacceptable side effects, or a nonstimulant is preferred."
+                }
+              ],
+              "source_notes": "Second-line pharmacological treatment."
+            },
+            {
+              "intervention": "Behavioral Therapy (Adolescent-Focused)",
+              "common_aliases": ["behavior therapy", "behavior modification", "adolescent behavior skills training"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Behavioral treatments teach skills to children with ADHD that will help them overcome impairments. These skills are important because ADHD is chronic and skills will be useful throughout life.",
+              "rationale_source": "CHADD",
+              "sources": [
+                {
+                  "organization": "CHADD",
+                  "url": "https://chadd.org/for-parents/psychosocial-treatments/",
+                  "what_it_said": "Behavioral treatments teach skills useful throughout life. There are interventions that work for preschoolers, elementary-age, and teenagers."
+                }
+              ],
+              "source_notes": "CHADD notes that starting behavioral treatment early is better than later but interventions exist for all age groups."
+            },
+            {
+              "intervention": "Assessment and Treatment of Co-Occurring Conditions",
+              "common_aliases": ["comorbidity management", "co-occurring conditions", "dual diagnosis"],
+              "category": "evaluation",
+              "severity_if_missing": "high",
+              "rationale": "ADHD frequently co-occurs with depression, anxiety, substance abuse, and other conditions that are particularly relevant during adolescence.",
+              "rationale_source": "CHADD",
+              "sources": [
+                {
+                  "organization": "CHADD",
+                  "url": "https://chadd.org/about-adhd/overview/",
+                  "what_it_said": "Children with ADHD are at risk for depression, substance abuse, delinquency, and accidental injuries in adolescence."
+                }
+              ],
+              "source_notes": "Particularly critical during adolescence when risks for substance abuse and depression increase."
+            }
+          ]
+        }
+      }
+    },
+    "speech_language_delay": {
+      "display_name": "Speech and Language Delay",
+      "age_groups": {
+        "3-5": {
+          "recommended": [
+            {
+              "intervention": "Speech-Language Therapy (by SLP)",
+              "common_aliases": ["speech therapy", "SLP services", "language therapy", "speech-language pathology"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "SLPs play a critical role in providing services to children with language delays. The goal is to stimulate overall language development and teach language skills in context to promote effective communication.",
+              "rationale_source": "ASHA",
+              "sources": [
+                {
+                  "organization": "ASHA",
+                  "url": "https://www.asha.org/practice-portal/clinical-topics/late-language-emergence/",
+                  "what_it_said": "SLPs play a critical role. The goal is to stimulate overall language development and teach language skills in context."
+                },
+                {
+                  "organization": "NIDCD",
+                  "url": "https://www.nidcd.nih.gov/health/speech-and-language",
+                  "what_it_said": "Depending on evaluation results, the SLP may suggest activities at home or recommend group or individual therapy."
+                }
+              ],
+              "source_notes": "Both ASHA and NIDCD emphasize the central role of SLPs in evaluating and treating speech/language delays."
+            },
+            {
+              "intervention": "Comprehensive Speech-Language Assessment",
+              "common_aliases": ["speech evaluation", "language assessment", "SLP evaluation", "communication assessment"],
+              "category": "evaluation",
+              "severity_if_missing": "critical",
+              "rationale": "A comprehensive assessment determines the nature and severity of the language delay, its overall effect on communication, the presence of risk factors, and the child's global developmental skills.",
+              "rationale_source": "ASHA",
+              "sources": [
+                {
+                  "organization": "ASHA",
+                  "url": "https://www.asha.org/practice-portal/clinical-topics/late-language-emergence/",
+                  "what_it_said": "It is critical to identify the nature and severity of the language delay, its effect on communication, and presence of risk factors."
+                },
+                {
+                  "organization": "NIDCD",
+                  "url": "https://www.nidcd.nih.gov/health/developmental-language-disorder",
+                  "what_it_said": "A speech-language pathologist can evaluate the child's language skills using a variety of strategies."
+                }
+              ],
+              "source_notes": "Assessment should include hearing screening per NIDCD. ASHA notes a hearing test is often included."
+            },
+            {
+              "intervention": "Parent-Based Language Intervention",
+              "common_aliases": ["parent coaching", "parent-mediated intervention", "home language stimulation", "caregiver training"],
+              "category": "parent_training",
+              "severity_if_missing": "high",
+              "rationale": "Parent-based language interventions are initially recommended for expressive language delay. These enhance the family's ability to support the child's development.",
+              "rationale_source": "ASHA",
+              "sources": [
+                {
+                  "organization": "ASHA (citing clinical practice guideline)",
+                  "url": "https://apps.asha.org/EvidenceMaps/Articles/ArticleSummary/0c841081-e4dc-ef11-8157-005056834e2b",
+                  "what_it_said": "Parent-based language interventions are initially recommended for expressive language delay."
+                },
+                {
+                  "organization": "ASHA",
+                  "url": "https://www.asha.org/practice-portal/clinical-topics/late-language-emergence/",
+                  "what_it_said": "Language intervention enhances the family's ability to support the child's development."
+                }
+              ],
+              "source_notes": "ASHA-referenced guideline recommends parent-based intervention as initial approach for expressive delay."
+            },
+            {
+              "intervention": "Early Intervention Services",
+              "common_aliases": ["EI", "early intervention", "Part C", "early childhood services"],
+              "category": "community_support",
+              "severity_if_missing": "critical",
+              "rationale": "Early identification and intervention can mitigate the impact of risk factors. Children who show signs of a problem should be referred to an early intervention program.",
+              "rationale_source": "ASHA",
+              "sources": [
+                {
+                  "organization": "ASHA",
+                  "url": "https://www.asha.org/practice-portal/clinical-topics/late-language-emergence/",
+                  "what_it_said": "Early identification and intervention can mitigate the impact of risk factors."
+                },
+                {
+                  "organization": "ASHA (public page)",
+                  "url": "https://www.asha.org/public/speech/disorders/late-blooming-or-language-problem/",
+                  "what_it_said": "If your child shows signs of a problem, the SLP may suggest an early intervention program to help communicate better."
+                }
+              ],
+              "source_notes": "Part C early intervention applies to children under 3. School-based services begin at age 3."
+            },
+            {
+              "intervention": "Child-Centered Language Intervention",
+              "common_aliases": ["direct language therapy", "child-directed therapy", "clinician-delivered therapy"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "A combination of parent-based and child-centered interventions should be considered for children with receptive language deficits or risk factors for developmental language disorder.",
+              "rationale_source": "ASHA",
+              "sources": [
+                {
+                  "organization": "ASHA (citing clinical practice guideline)",
+                  "url": "https://apps.asha.org/EvidenceMaps/Articles/ArticleSummary/0c841081-e4dc-ef11-8157-005056834e2b",
+                  "what_it_said": "A combination of parent-based and child-centered interventions should be considered for receptive language deficits or DLD risk factors."
+                }
+              ],
+              "source_notes": "Particularly recommended when receptive language is affected, not just expressive."
+            }
+          ]
+        },
+        "6-12": {
+          "recommended": [
+            {
+              "intervention": "Speech-Language Therapy (by SLP)",
+              "common_aliases": ["speech therapy", "SLP services", "language intervention", "communication therapy"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "The overall goal of intervention is to stimulate language development and teach skills to enhance communication and access academic content.",
+              "rationale_source": "ASHA",
+              "sources": [
+                {
+                  "organization": "ASHA",
+                  "url": "https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/",
+                  "what_it_said": "Areas targeted include improving intelligibility, increasing vocabulary, semantic relationships, and morpheme acquisition."
+                },
+                {
+                  "organization": "ASHA (ASHA Leader)",
+                  "url": "https://leader.pubs.asha.org/do/10.1044/language-delay-versus-a-disorder/full/",
+                  "what_it_said": "The overall goal of intervention is to stimulate language development and teach skills to enhance communication and academic content access."
+                }
+              ],
+              "source_notes": "General recommendation — applicable across school age. ASHA notes intervention is child-specific based on current functioning level."
+            },
+            {
+              "intervention": "School-Based Special Education Services / IEP",
+              "common_aliases": ["IEP", "special education", "IDEA services", "school speech services", "related services"],
+              "category": "school_support",
+              "severity_if_missing": "critical",
+              "rationale": "Children with language disorders may be eligible for school-based services. SLPs are involved in the RTI process and can provide instruction to struggling students.",
+              "rationale_source": "ASHA",
+              "sources": [
+                {
+                  "organization": "ASHA",
+                  "url": "https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/",
+                  "what_it_said": "SLPs can have several roles in the RTI process to identify children with disabilities and provide instruction to struggling students."
+                },
+                {
+                  "organization": "ASHA (public page)",
+                  "url": "https://www.asha.org/public/speech/disorders/preschool-language-disorders/",
+                  "what_it_said": "SLPs may work on a team to test your child. The team includes the parent, child's teacher, and others."
+                }
+              ],
+              "source_notes": "ASHA emphasizes that educators cannot use RTI to delay or deny an evaluation for special education eligibility."
+            },
+            {
+              "intervention": "Vocabulary and Syntax Intervention",
+              "common_aliases": ["language enrichment", "vocabulary building", "grammar therapy", "morphosyntax intervention"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Children with DLD should receive treatments targeting their area of need, including vocabulary intervention for lexical-semantic impairments.",
+              "rationale_source": "ASHA",
+              "sources": [
+                {
+                  "organization": "ASHA (citing clinical practice guideline)",
+                  "url": "https://apps.asha.org/EvidenceMaps/Articles/ArticleSummary/0c841081-e4dc-ef11-8157-005056834e2b",
+                  "what_it_said": "Lexical-semantic impairments should receive vocabulary intervention including word understanding, production, and expression."
+                },
+                {
+                  "organization": "ASHA",
+                  "url": "https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/",
+                  "what_it_said": "Target areas include academic vocabulary and improving semantic depth or richness of familiar words."
+                }
+              ],
+              "source_notes": "ASHA practice portal specifically identifies vocabulary and syntax as key intervention targets for school-age children."
+            },
+            {
+              "intervention": "Augmentative and Alternative Communication (AAC)",
+              "common_aliases": ["AAC", "communication device", "alternative communication", "assistive technology"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "If appropriate, an assessment of augmentative or alternative communication may be conducted for children who need support beyond verbal speech.",
+              "rationale_source": "ASHA",
+              "sources": [
+                {
+                  "organization": "ASHA",
+                  "url": "https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/",
+                  "what_it_said": "If appropriate, an assessment of an alternative or augmentative form of communication may be conducted."
+                }
+              ],
+              "source_notes": "Applicable when verbal communication is insufficient. ASHA references their AAC Practice Portal page."
+            }
+          ]
+        },
+        "13-18": {
+          "recommended": [
+            {
+              "intervention": "Speech-Language Therapy (by SLP) — Adolescent Focus",
+              "common_aliases": ["speech therapy", "language therapy", "academic language support", "pragmatic language therapy"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Language problems in older children may show up in different ways. The impact of developmental language disorder persists into adulthood, requiring continued intervention.",
+              "rationale_source": "ASHA / NIDCD",
+              "sources": [
+                {
+                  "organization": "ASHA",
+                  "url": "https://www.asha.org/public/speech/disorders/preschool-language-disorders/",
+                  "what_it_said": "Language problems in older children may show up as difficulties with reading, writing, and following complex directions."
+                },
+                {
+                  "organization": "NIDCD",
+                  "url": "https://www.nidcd.nih.gov/health/developmental-language-disorder",
+                  "what_it_said": "The impact of DLD persists into adulthood. Symptoms include limited complex sentences, difficulty finding words, and reading problems."
+                }
+              ],
+              "source_notes": "NIDCD notes that DLD symptoms in older children/adults include reading problems, disorganized writing, and grammatical errors."
+            },
+            {
+              "intervention": "School-Based Special Education / IEP (continued)",
+              "common_aliases": ["IEP", "special education", "related services", "school speech services"],
+              "category": "school_support",
+              "severity_if_missing": "high",
+              "rationale": "Adolescents with spoken language disorders may continue to need school-based support for academic success, particularly for reading and writing.",
+              "rationale_source": "ASHA",
+              "sources": [
+                {
+                  "organization": "ASHA",
+                  "url": "https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/",
+                  "what_it_said": "SLPs play a role in the RTI process and provide instruction to struggling students across age groups."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. ASHA notes language disorders can affect reading and writing."
+            }
+          ]
+        }
+      }
+    },
+    "sensory_processing_disorder": {
+      "display_name": "Sensory Processing Disorder (SPD)",
+      "age_groups": {
+        "3-5": {
+          "recommended": [
+            {
+              "intervention": "Occupational Therapy Using Sensory Integration Approach",
+              "common_aliases": ["OT-SI", "sensory integration therapy", "Ayres Sensory Integration", "ASI", "sensory OT"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "Occupational therapy using Ayres Sensory Integration is an evidence-based manualized intervention in which practitioners use individually tailored, purposeful, playful, sensory-rich activities to promote adaptive behaviors.",
+              "rationale_source": "AOTA",
+              "sources": [
+                {
+                  "organization": "AOTA",
+                  "url": "https://research.aota.org/ajot/article/79/1/7901347020/26009/Occupational-Therapy-Using-Ayres-Sensory",
+                  "what_it_said": "ASI is an evidence-based manualized intervention using individually tailored, playful, sensory-rich activities to promote adaptive behaviors."
+                },
+                {
+                  "organization": "STAR Institute",
+                  "url": "https://sensoryhealth.org/basic/how-spd-treated",
+                  "what_it_said": "Children are most commonly treated for SPD with occupational therapy (OT) that may be supplemented with listening therapy."
+                }
+              ],
+              "source_notes": "AOTA describes ASI as evidence-based for autistic children with emerging evidence for children with idiopathic sensory integration differences. General recommendation — not age-specific."
+            },
+            {
+              "intervention": "Comprehensive Sensory-Motor Assessment",
+              "common_aliases": ["sensory evaluation", "OT evaluation", "sensory processing assessment", "SIPT", "SPM"],
+              "category": "evaluation",
+              "severity_if_missing": "critical",
+              "rationale": "Early diagnosis increases the chances of successful intervention and can prevent secondary problems from developing such as behavior problems and poor self-esteem.",
+              "rationale_source": "STAR Institute",
+              "sources": [
+                {
+                  "organization": "STAR Institute",
+                  "url": "https://sensoryhealth.org/landing-page/treatment",
+                  "what_it_said": "Early diagnosis increases chances of successful intervention and can prevent secondary problems like behavior issues and poor self-esteem."
+                },
+                {
+                  "organization": "AOTA",
+                  "url": "https://research.aota.org/ajot/article/73/3/7303390010p1/6572/Occupational-Therapy-Interventions-for-Children",
+                  "what_it_said": "Assessment data indicated occupational performance affected by difficulty processing sensory information, motor skill limitations, and self-regulation challenges."
+                }
+              ],
+              "source_notes": "STAR Institute uses standardized assessments (SIPT, MAP, M-Fun) along with observation and parent/caregiver interviews."
+            },
+            {
+              "intervention": "Parent/Caregiver Education and Coaching",
+              "common_aliases": ["parent coaching", "caregiver education", "sensory diet coaching", "home program training"],
+              "category": "parent_training",
+              "severity_if_missing": "high",
+              "rationale": "AOTA systematic reviews include parent and teacher education/coaching as a key intervention category. STAR Institute builds parent education into every individualized treatment program.",
+              "rationale_source": "AOTA / STAR Institute",
+              "sources": [
+                {
+                  "organization": "AOTA",
+                  "url": "https://library.aota.org/vv10ai/",
+                  "what_it_said": "Practice guidelines include: Interventions That Provide Education or Coaching of Parents or Teachers."
+                },
+                {
+                  "organization": "STAR Institute",
+                  "url": "https://sensoryhealth.org/basic/our-research-priorities",
+                  "what_it_said": "STAR Institute builds a significant parent education component into every individualized treatment program."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. Both AOTA and STAR Institute emphasize family-centered approach."
+            },
+            {
+              "intervention": "Sensory Environmental Modifications",
+              "common_aliases": ["sensory diet", "environmental adaptations", "sensory accommodations", "sensory strategies"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "AOTA systematic reviews address specific sensory techniques and sensory environmental modifications as an evidence-based intervention category.",
+              "rationale_source": "AOTA",
+              "sources": [
+                {
+                  "organization": "AOTA",
+                  "url": "https://library.aota.org/vv10ai/",
+                  "what_it_said": "Practice guidelines include: Interventions That Address Specific Sensory Techniques and Sensory Environmental Modifications."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific. AOTA includes this as a distinct intervention category in their practice guidelines."
+            }
+          ]
+        },
+        "6-12": {
+          "recommended": [
+            {
+              "intervention": "Occupational Therapy Using Sensory Integration Approach (School-Based)",
+              "common_aliases": ["school OT", "OT-SI", "Ayres Sensory Integration", "ASI", "sensory integration therapy"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "65% of school-based OT practitioners report sensory-related issues are frequently or always the reason for OT referrals. Challenges with sensory processing affect children's ability to successfully engage in school occupations.",
+              "rationale_source": "AOTA",
+              "sources": [
+                {
+                  "organization": "AOTA",
+                  "url": "https://research.aota.org/ajot/article/79/1/7901347020/26009/Occupational-Therapy-Using-Ayres-Sensory",
+                  "what_it_said": "65% of school-based OT practitioners report sensory issues are frequently/always the reason for referrals."
+                }
+              ],
+              "source_notes": "AOTA's 2025 article specifically calls for increased use of ASI principles in school settings using multitiered supports."
+            },
+            {
+              "intervention": "Cognitive and Occupation-Based Interventions",
+              "common_aliases": ["occupation-based therapy", "functional skills therapy", "cognitive strategies"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "AOTA systematic reviews include cognitive and occupation-based interventions as a distinct evidence-based category for children with sensory integration challenges.",
+              "rationale_source": "AOTA",
+              "sources": [
+                {
+                  "organization": "AOTA",
+                  "url": "https://library.aota.org/vv10ai/",
+                  "what_it_said": "Practice guidelines include: Cognitive and Occupation-Based Interventions as a category of intervention."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific."
+            },
+            {
+              "intervention": "Sensory Environmental Modifications and Accommodations (School Setting)",
+              "common_aliases": ["sensory accommodations", "classroom modifications", "sensory diet", "environmental adaptations"],
+              "category": "school_support",
+              "severity_if_missing": "high",
+              "rationale": "Interventions using principles of ASI can be applied across all tiers of a multitiered system of supports in schools.",
+              "rationale_source": "AOTA",
+              "sources": [
+                {
+                  "organization": "AOTA",
+                  "url": "https://research.aota.org/ajot/article/79/1/7901347020/26009/Occupational-Therapy-Using-Ayres-Sensory",
+                  "what_it_said": "ASI principles can be used across all tiers of a multitiered system of supports in schools."
+                }
+              ],
+              "source_notes": "AOTA provides examples for implementing sensory supports within existing school structures."
+            },
+            {
+              "intervention": "Parent/Teacher Education and Coaching",
+              "common_aliases": ["parent coaching", "teacher training", "sensory education", "caregiver consultation"],
+              "category": "parent_training",
+              "severity_if_missing": "high",
+              "rationale": "Education or coaching of parents or teachers is identified as a key intervention approach in AOTA practice guidelines for sensory challenges.",
+              "rationale_source": "AOTA",
+              "sources": [
+                {
+                  "organization": "AOTA",
+                  "url": "https://library.aota.org/vv10ai/",
+                  "what_it_said": "Practice guidelines include: Interventions That Provide Education or Coaching of Parents or Teachers."
+                }
+              ],
+              "source_notes": "General recommendation — not age-specific."
+            }
+          ]
+        },
+        "13-18": {
+          "recommended": [
+            {
+              "intervention": "Occupational Therapy with Sensory Integration Approach (Adolescent)",
+              "common_aliases": ["OT-SI", "sensory integration therapy", "ASI", "adolescent OT"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Adolescents who received therapy in childhood may find themselves struggling at new developmental levels. Short bursts of therapy or counseling that increases self-understanding is often extremely helpful.",
+              "rationale_source": "STAR Institute",
+              "sources": [
+                {
+                  "organization": "STAR Institute",
+                  "url": "https://sensoryhealth.org/basic/adults",
+                  "what_it_said": "Adolescents who benefited from childhood therapy may struggle at new developmental levels. Short bursts of therapy are often extremely helpful."
+                },
+                {
+                  "organization": "STAR Institute",
+                  "url": "https://sensoryhealth.org/basic/treatment-for-adults-sensory-challenges",
+                  "what_it_said": "Effective services for adults and older adolescents include direct therapy, home programs, education, and/or accommodations."
+                }
+              ],
+              "source_notes": "STAR Institute specifically addresses adolescent and adult needs as distinct from younger children."
+            },
+            {
+              "intervention": "Psychoeducation and Self-Advocacy Training",
+              "common_aliases": ["sensory self-awareness", "self-regulation training", "self-advocacy", "psychoeducation"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "Education about sensory processing helps the individual develop personal insight and accommodations to modify the negative impact of SPD on daily life.",
+              "rationale_source": "STAR Institute",
+              "sources": [
+                {
+                  "organization": "STAR Institute",
+                  "url": "https://sensoryhealth.org/basic/treatment-for-adults-sensory-challenges",
+                  "what_it_said": "Education about sensory processing contributes to personal insight so the individual can develop accommodations to sensory-based differences."
+                }
+              ],
+              "source_notes": "Primarily from STAR Institute's adolescent/adult program. Important for transitioning to self-management."
+            },
+            {
+              "intervention": "Environmental Accommodations and Home Programs",
+              "common_aliases": ["sensory accommodations", "environmental modifications", "home program", "sensory diet"],
+              "category": "community_support",
+              "severity_if_missing": "moderate",
+              "rationale": "Home programs and accommodations can be utilized to reduce negative symptoms associated with sensory processing differences.",
+              "rationale_source": "STAR Institute",
+              "sources": [
+                {
+                  "organization": "STAR Institute",
+                  "url": "https://sensoryhealth.org/basic/treatment-for-adults-sensory-challenges",
+                  "what_it_said": "Home programs can be utilized, with some limited direct treatment, to reduce negative symptoms of sensory integration differences."
+                }
+              ],
+              "source_notes": "STAR Institute notes many adolescents/adults do well with evaluation and consultation for treatment rather than intensive direct therapy."
+            }
+          ]
+        }
+      }
+    },
+    "anxiety_school_avoidance": {
+      "display_name": "Anxiety and School Avoidance",
+      "age_groups": {
+        "3-5": {
+          "recommended": [
+            {
+              "intervention": "Comprehensive Mental Health Evaluation",
+              "common_aliases": ["mental health evaluation", "psychological assessment", "anxiety evaluation", "developmental evaluation"],
+              "category": "evaluation",
+              "severity_if_missing": "high",
+              "rationale": "Persistent or extreme fear and avoidance could be due to an anxiety disorder, and an evaluation helps determine the best diagnosis and treatment. Some signs of anxiety could also be caused by other conditions, such as trauma.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/about/about-anxiety-and-depression-in-children.html",
+                  "what_it_said": "The first step to treatment is to talk with a health care provider, such as the child's primary care provider or a mental health specialist, about getting an evaluation. It is important to get a careful evaluation to get the best diagnosis and treatment."
+                }
+              ],
+              "source_notes": "CDC frames evaluation as the first step for any concern about anxiety in children."
+            },
+            {
+              "intervention": "Parent-Involved Behavior Therapy",
+              "common_aliases": ["behavior therapy", "parent-involved therapy", "graduated exposure", "exposure-based therapy"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Behavior therapy for anxiety helps children cope with and manage anxiety symptoms while gradually exposing them to their fears. For very young children, involving parents in treatment is key.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/about/about-anxiety-and-depression-in-children.html",
+                  "what_it_said": "Behavior therapy for anxiety may involve helping children cope with and manage anxiety symptoms while gradually exposing them to their fears. For very young children, involving parents in treatment is key."
+                }
+              ],
+              "source_notes": "CDC emphasizes parent involvement for the youngest children. Formal CBT is generally introduced in older children."
+            },
+            {
+              "intervention": "Play Therapy",
+              "common_aliases": ["play therapy", "child-centered play therapy", "CCPT"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "Play therapy uses toys, drawings, and games to help young children recognize, identify, and verbalize feelings they cannot yet express in words, including fear and anxiety.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Psychotherapies-For-Children-And-Adolescents-086.aspx",
+                  "what_it_said": "Play Therapy involves the use of toys, blocks, dolls, puppets, drawings, and games to help the child recognize, identify, and verbalize feelings. Through a combination of talk and play the child has an opportunity to better understand and manage their conflicts, feelings, and behavior."
+                },
+                {
+                  "organization": "University of North Texas Center for Play Therapy",
+                  "url": "https://cpt.unt.edu/about-play-therapy/child-centered-play-therapy",
+                  "what_it_said": "Child-Centered Play Therapy is a developmentally responsive, play-based intervention for young children ages 3 to 10 and is designated as a promising evidence-based mental health intervention by the Title IV-E Prevention Services Clearinghouse and the California Evidence-Based Clearinghouse for Child Welfare."
+                }
+              ],
+              "source_notes": "AACAP describes play therapy as a recognized psychotherapy type. The UNT Center for Play Therapy is the university body that developed the evidence-based CCPT protocol for ages 3-10."
+            }
+          ]
+        },
+        "6-12": {
+          "recommended": [
+            {
+              "intervention": "Cognitive Behavioral Therapy (CBT) with Graduated Exposure",
+              "common_aliases": ["CBT", "cognitive behavioral therapy", "exposure therapy", "coping skills therapy"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "CBT is the current gold standard for treating anxiety disorders in children, working by changing dysfunctional thoughts and using gradual exposure to anxiety-provoking situations such as returning to school. AACAP recommends CBT for patients 6 to 18 years old with separation, social, or generalized anxiety.",
+              "rationale_source": "NIMH / AACAP",
+              "sources": [
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/news/science-news/2024/cognitive-behavioral-therapy-alters-brain-activity-in-children-with-anxiety",
+                  "what_it_said": "CBT, which involves changing dysfunctional thoughts and behaviors through gradual exposure to anxiety-provoking stimuli, is the current gold standard for treating anxiety disorders in children."
+                },
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.jaacap.org/article/S0890-8567%2820%2930280-X/fulltext",
+                  "what_it_said": "AACAP recommends that cognitive-behavioral therapy be offered to patients 6 to 18 years old with social anxiety, generalized anxiety, separation anxiety, specific phobia, or panic disorder. Both CBT and SSRI medication have considerable empirical support as safe and effective short-term treatments for anxiety in children and adolescents."
+                }
+              ],
+              "source_notes": "AACAP full Clinical Practice Guideline text on jaacap.org is subscription-based; recommendation statements were accessible via the article."
+            },
+            {
+              "intervention": "School-Based Support and Graduated Re-Entry Plan (504/IEP)",
+              "common_aliases": ["504 plan", "IEP", "graduated school re-entry", "school accommodations", "school counseling support"],
+              "category": "school_support",
+              "severity_if_missing": "critical",
+              "rationale": "Treatment of school refusal requires the family, child, school, and therapist to work together on a plan to gradually return the child to school in small, supported steps. Specific plans for anxiety management at school can be written into a 504 plan or IEP.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/School-Refusal-007.aspx",
+                  "what_it_said": "Treatment often requires family, child, school, and therapist to work together. Children develop a plan to gradually practice returning to school in small, supported steps, which may include shortened school days, check-ins with a trusted adult, and accommodations through a 504 plan or Individualized Education Plan."
+                },
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.jaacap.org/article/S0890-8567%2820%2930280-X/fulltext",
+                  "what_it_said": "School-directed interventions that educate teachers about the student's anxiety can be part of the treatment plan; specific plans for anxiety management at school can be written into the student's 504 plan or IEP, such as graduated school re-entry with contingent rewards for separation anxiety."
+                }
+              ],
+              "source_notes": "Strong consensus across AACAP family materials and clinical guideline that school collaboration and graduated re-entry are central to school avoidance."
+            },
+            {
+              "intervention": "Family Therapy / Family-Directed Intervention",
+              "common_aliases": ["family therapy", "family counseling", "parent-child intervention"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "Family-directed interventions that improve parent-child relationships, strengthen problem-solving and communication, reduce parental anxiety, and foster anxiety-reducing parenting skills often supplement individual treatment for childhood anxiety.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.jaacap.org/article/S0890-8567%2820%2930280-X/fulltext",
+                  "what_it_said": "Family-directed interventions that improve parent-child relationships, strengthen family problem-solving and communication skills, reduce parental anxiety, and foster anxiety-reducing parenting skills often supplement individual treatment."
+                }
+              ],
+              "source_notes": "Described by AACAP as a supplement to individual CBT rather than a stand-alone treatment."
+            }
+          ]
+        },
+        "13-18": {
+          "recommended": [
+            {
+              "intervention": "Cognitive Behavioral Therapy (CBT)",
+              "common_aliases": ["CBT", "cognitive behavioral therapy", "exposure therapy", "anxiety therapy"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "For adolescents, CBT has considerable empirical support as a safe and effective short-term treatment for anxiety. In the NIMH-funded CAMS trial, CBT alone helped 60 percent of youth, and combining CBT with an SSRI helped 81 percent.",
+              "rationale_source": "AACAP / NIMH",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.jaacap.org/article/S0890-8567%2820%2930280-X/fulltext",
+                  "what_it_said": "Both cognitive-behavioral therapy and SSRI medication have considerable empirical support as safe and effective short-term treatments for anxiety in children and adolescents."
+                },
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/news/science-updates/2008/study-identifies-three-effective-treatments-for-childhood-anxiety-disorders",
+                  "what_it_said": "In the Child/Adolescent Anxiety Multimodal Study (CAMS), 81 percent improved on combination treatment, 60 percent in the CBT-only group, and 55 percent in the sertraline-only group, supporting CBT, SSRI, or their combination as effective options."
+                }
+              ],
+              "source_notes": "CAMS enrolled children ages 7-17, supporting CBT across this adolescent group."
+            },
+            {
+              "intervention": "Medication Management (SSRI) for Moderate to Severe Anxiety",
+              "common_aliases": ["SSRI", "medication management", "sertraline", "antidepressant for anxiety"],
+              "category": "medication_management",
+              "severity_if_missing": "moderate",
+              "rationale": "SSRI medication has considerable empirical support for anxiety in adolescents and, when combined with CBT, produces the highest response rates. Medication decisions should be made with a health care provider.",
+              "rationale_source": "AACAP / NIMH",
+              "sources": [
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/news/science-updates/2008/study-identifies-three-effective-treatments-for-childhood-anxiety-disorders",
+                  "what_it_said": "Combination treatment with the SSRI sertraline plus CBT was the most effective option in the CAMS trial, and sertraline alone showed a good response rate as well."
+                },
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.jaacap.org/article/S0890-8567%2820%2930280-X/fulltext",
+                  "what_it_said": "SSRI medication has considerable empirical support as a safe and effective short-term treatment for anxiety in children and adolescents."
+                }
+              ],
+              "source_notes": "Medication is recommended in combination with therapy, not as a stand-alone treatment for school avoidance per AACAP family materials."
+            },
+            {
+              "intervention": "School Accommodations and Graduated Re-Entry (504/IEP)",
+              "common_aliases": ["504 plan", "IEP", "school accommodations", "graduated re-entry", "attendance plan"],
+              "category": "school_support",
+              "severity_if_missing": "high",
+              "rationale": "School refusal in the older child or adolescent is generally a more serious problem and often requires more intensive treatment, with the school supporting a structured and timely return through a 504 plan or IEP.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/School-Refusal-007.aspx",
+                  "what_it_said": "The school should support the family and treatment provider's plan for successful school attendance through the development of a 504 plan or Individualized Education Plan. Refusal to go to school in the older child or adolescent is generally a more serious illness and often requires more intensive treatment."
+                }
+              ],
+              "source_notes": "AACAP notes adolescent school refusal is generally more serious than in younger children."
+            }
+          ]
+        }
+      }
+    },
+    "emotional_dysregulation": {
+      "display_name": "Emotional Dysregulation",
+      "age_groups": {
+        "3-5": {
+          "recommended": [
+            {
+              "intervention": "Parent Management Training",
+              "common_aliases": ["parent management training", "PMT", "behavioral parent training", "parent behavior therapy", "PCIT"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "For younger children with disruptive, dysregulated behavior, the treatment with the strongest evidence is behavior therapy training for parents, in which a therapist helps the parent strengthen the parent-child relationship and respond effectively to the child's behavior.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/about/about-behavior-or-conduct-problems-in-children.html",
+                  "what_it_said": "For younger children, the treatment with the strongest evidence is behavior therapy training for parents, where a therapist helps the parent learn effective ways to strengthen the parent-child relationship and respond to the child's behavior."
+                }
+              ],
+              "source_notes": "CDC frames parent-focused behavior therapy as the strongest-evidence approach for behavioral and emotional regulation problems in young children."
+            },
+            {
+              "intervention": "Play Therapy",
+              "common_aliases": ["play therapy", "child-centered play therapy", "CCPT"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "Play therapy helps young children recognize, identify, and verbalize feelings and better understand and manage their conflicts, feelings, and behavior through play.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Psychotherapies-For-Children-And-Adolescents-086.aspx",
+                  "what_it_said": "Play Therapy uses toys, blocks, dolls, puppets, drawings, and games to help the child recognize, identify, and verbalize feelings, giving the child an opportunity to better understand and manage their conflicts, feelings, and behavior."
+                },
+                {
+                  "organization": "University of North Texas Center for Play Therapy",
+                  "url": "https://cpt.unt.edu/about-play-therapy/child-centered-play-therapy",
+                  "what_it_said": "Child outcomes following Child-Centered Play Therapy include decreased symptomatic behaviors and improvement in overall functioning."
+                }
+              ],
+              "source_notes": "Play therapy targets emotional expression and self-regulation in early childhood."
+            },
+            {
+              "intervention": "Comprehensive Mental Health Evaluation",
+              "common_aliases": ["mental health evaluation", "comprehensive evaluation", "psychiatric evaluation"],
+              "category": "evaluation",
+              "severity_if_missing": "high",
+              "rationale": "Severe, frequent emotional outbursts and chronic irritability can overlap with several conditions, so a comprehensive evaluation by a trained mental health professional is important to identify the underlying cause and plan treatment.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Disruptive-Mood-Dysregulation-Disorder-_DMDD_-110.aspx",
+                  "what_it_said": "Some symptoms associated with severe irritability and outbursts are also present in other child psychiatric disorders, which is why it is particularly important to get a comprehensive evaluation by a trained and qualified mental health professional."
+                }
+              ],
+              "source_notes": "Drawn from AACAP guidance on disruptive mood dysregulation disorder, the clinical analogue for chronic irritability and emotional dysregulation."
+            }
+          ]
+        },
+        "6-12": {
+          "recommended": [
+            {
+              "intervention": "Cognitive Behavioral Therapy (CBT)",
+              "common_aliases": ["CBT", "cognitive behavioral therapy", "emotion regulation therapy"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "For chronic irritability and emotional dysregulation, treatment generally includes psychotherapy first, with medication added later if needed. CBT helps children change negative thought patterns and learn to manage emotions and behavior.",
+              "rationale_source": "NIMH / CDC",
+              "sources": [
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder",
+                  "what_it_said": "Treatment for disruptive mood dysregulation disorder generally includes certain types of psychotherapy and sometimes medications. In many cases, psychotherapy is considered first, with medication added later."
+                },
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/about/about-anxiety-and-depression-in-children.html",
+                  "what_it_said": "Cognitive-behavioral therapy helps the child change negative thoughts into more positive, effective ways of thinking and coping, leading to more effective behavior."
+                }
+              ],
+              "source_notes": "NIMH notes few DMDD-specific treatment studies exist; current treatments are based on what helps related conditions associated with irritability."
+            },
+            {
+              "intervention": "Parent Management Training",
+              "common_aliases": ["parent management training", "PMT", "behavioral parent training"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Parent training in behavior management helps caregivers respond consistently to disruptive and dysregulated behavior, which works well for behavior problems in school-age children as part of a combined approach.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/treatment/index.html",
+                  "what_it_said": "Parent training in behavior management works well for disruptive behavior disorders, and behavior therapy teaches children and their families how to strengthen positive child behaviors and reduce problem behaviors."
+                }
+              ],
+              "source_notes": "Parent training is a core behavioral component across disruptive and dysregulated behavior presentations."
+            },
+            {
+              "intervention": "School-Based Counseling and Support",
+              "common_aliases": ["school-based counseling", "school counseling", "school support", "behavior support plan"],
+              "category": "school_support",
+              "severity_if_missing": "moderate",
+              "rationale": "Because dysregulation interferes with functioning at school as well as home, treatment may include work with the child's school alongside individual and family therapy.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Disruptive-Mood-Dysregulation-Disorder-_DMDD_-110.aspx",
+                  "what_it_said": "Treatment may include individual therapy, as well as work with the child's family and/or school."
+                }
+              ],
+              "source_notes": "AACAP explicitly includes the school as part of the treatment plan for chronic irritability and outbursts."
+            }
+          ]
+        },
+        "13-18": {
+          "recommended": [
+            {
+              "intervention": "Dialectical Behavior Therapy (DBT)",
+              "common_aliases": ["DBT", "dialectical behavior therapy", "DBT-A", "DBT-C", "emotion regulation skills training"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "DBT adapted for youth teaches skills to better regulate feelings using self-calming techniques, which can reduce the intensity and frequency of emotional outbursts. DBT has the strongest evidence among youth for emotion dysregulation linked to self-harm.",
+              "rationale_source": "Yale Medicine / NIMH",
+              "sources": [
+                {
+                  "organization": "Yale Medicine",
+                  "url": "https://www.yalemedicine.org/conditions/disruptive-mood-dysregulation-disorder",
+                  "what_it_said": "Dialectical behavior therapy for children (DBT-C) teaches children and adolescents how to better regulate their feelings with self-calming techniques, thereby helping to reduce the intensity or frequency of tantrums or outbursts."
+                },
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/news/science-updates/2018/therapy-reduces-risk-in-suicidal-youth",
+                  "what_it_said": "A clinical trial of dialectical behavior therapy, which targets emotional control and has been effective in adults, showed that DBT can reduce suicide attempts and suicidal behavior in adolescents who have trouble with emotional control."
+                }
+              ],
+              "source_notes": "Yale Medicine is the university medical center source for DBT-C; NIMH supports DBT for adolescents with emotional control difficulties."
+            },
+            {
+              "intervention": "Cognitive Behavioral Therapy (CBT)",
+              "common_aliases": ["CBT", "cognitive behavioral therapy"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "CBT helps adolescents identify and change unhelpful thoughts and behaviors and develop healthier ways to express and manage emotions.",
+              "rationale_source": "NIMH",
+              "sources": [
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/health/topics/psychotherapies",
+                  "what_it_said": "Cognitive behavioral therapy helps a person become aware of inaccurate or harmful ways of thinking, question those thoughts, understand how they affect emotions and behavior, and change self-defeating behavior patterns."
+                }
+              ],
+              "source_notes": "General evidence-based psychotherapy applicable to emotion regulation difficulties in adolescents."
+            },
+            {
+              "intervention": "Medication Management for Specific Symptoms or Co-Occurring Conditions",
+              "common_aliases": ["medication management", "psychiatric medication", "SSRI", "stimulant"],
+              "category": "medication_management",
+              "severity_if_missing": "moderate",
+              "rationale": "There are no FDA-approved medications specific to chronic irritability; medications may be used to address specific symptoms or co-occurring conditions, typically alongside psychotherapy.",
+              "rationale_source": "NIMH",
+              "sources": [
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder",
+                  "what_it_said": "Current treatments are primarily based on what has been helpful for other childhood disorders associated with irritability, and may include psychotherapy and sometimes medications such as stimulants or antidepressants to address specific symptoms."
+                }
+              ],
+              "source_notes": "NIMH cautions that antidepressants may increase suicidal thoughts and behaviors in youth; medication should be monitored by a provider."
+            }
+          ]
+        }
+      }
+    },
+    "depression_withdrawal": {
+      "display_name": "Depression and Withdrawal",
+      "age_groups": {
+        "3-5": {
+          "recommended": [
+            {
+              "intervention": "Comprehensive Mental Health Evaluation",
+              "common_aliases": ["mental health evaluation", "comprehensive evaluation", "depression screening"],
+              "category": "evaluation",
+              "severity_if_missing": "high",
+              "rationale": "Persistent sadness, loss of enjoyment, or withdrawal could be due to depression or another condition such as trauma, so a careful evaluation is the first step to determine the right diagnosis and treatment.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/about/about-anxiety-and-depression-in-children.html",
+                  "what_it_said": "Some of the signs and symptoms of depression in children could be caused by other conditions, such as trauma. It is important to get a careful evaluation to get the best diagnosis and treatment."
+                }
+              ],
+              "source_notes": "Depression is less commonly diagnosed in very young children; evaluation is emphasized to rule out other causes."
+            },
+            {
+              "intervention": "Parent-Involved Behavior Therapy / Play Therapy",
+              "common_aliases": ["behavior therapy", "play therapy", "parent-involved therapy", "family therapy"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "Behavior therapy for young children includes child therapy, family therapy, or a combination, and for very young children involving parents in treatment is key. Play-based approaches help young children express feelings.",
+              "rationale_source": "CDC / AACAP",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/about/about-anxiety-and-depression-in-children.html",
+                  "what_it_said": "Behavior therapy includes child therapy, family therapy, or a combination of both, and the school can also be included; for very young children, involving parents in treatment is key."
+                },
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Psychotherapies-For-Children-And-Adolescents-086.aspx",
+                  "what_it_said": "Play Therapy uses toys and games to help the child recognize, identify, and verbalize feelings and better understand and manage their feelings and behavior."
+                }
+              ],
+              "source_notes": "AACAP notes evidence for treating depression in pre-pubertal children is notably weaker than for adolescents; approaches here are adapted from general childhood depression and anxiety guidance."
+            }
+          ]
+        },
+        "6-12": {
+          "recommended": [
+            {
+              "intervention": "Cognitive Behavioral Therapy (CBT)",
+              "common_aliases": ["CBT", "cognitive behavioral therapy", "talk therapy"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Evidence-based therapies to treat depression include cognitive behavioral therapy, which teaches new ways of thinking and behaving and helps change habits that contribute to depression. For milder depression, psychotherapy is often tried first.",
+              "rationale_source": "NIMH",
+              "sources": [
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/health/publications/depression",
+                  "what_it_said": "Evidence-based therapies to treat depression include cognitive behavioral therapy and interpersonal therapy. For milder forms of depression, psychotherapy is often tried first, with medication added later if therapy alone does not produce a good response."
+                },
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/about/about-anxiety-and-depression-in-children.html",
+                  "what_it_said": "Cognitive-behavioral therapy is one form of therapy used to treat depression, particularly in older children, helping the child change negative thoughts into more positive, effective ways of thinking and coping."
+                }
+              ],
+              "source_notes": "AACAP notes evidence for psychotherapy is stronger in adolescents than pre-pubertal children, but CBT is the leading approach across school-age depression."
+            },
+            {
+              "intervention": "Family Involvement and Behavior Therapy",
+              "common_aliases": ["family therapy", "behavior therapy", "child and family therapy"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "Behavior therapy for depression can include child therapy, family therapy, or a combination, with the school included in the treatment plan; engaging caregivers supports the child's recovery.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/treatment/index.html",
+                  "what_it_said": "Engaging parents and other caregivers in treatment is important for children at all ages, and it is important for parents or caregivers to be involved and to provide support to the therapeutic relationship."
+                }
+              ],
+              "source_notes": "CDC emphasizes caregiver involvement as part of treatment for childhood depression."
+            },
+            {
+              "intervention": "School-Based Counseling and Support",
+              "common_aliases": ["school-based counseling", "school counseling", "school support"],
+              "category": "school_support",
+              "severity_if_missing": "moderate",
+              "rationale": "The school can be included in a child's depression treatment plan, providing counseling support and monitoring functioning across settings.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/about/about-anxiety-and-depression-in-children.html",
+                  "what_it_said": "Behavior therapy includes child therapy, family therapy, or a combination of both, and the school can also be included in the treatment plan."
+                }
+              ],
+              "source_notes": "School involvement is named by CDC as part of the depression treatment plan."
+            }
+          ]
+        },
+        "13-18": {
+          "recommended": [
+            {
+              "intervention": "Cognitive Behavioral Therapy (CBT) and Interpersonal Psychotherapy (IPT-A)",
+              "common_aliases": ["CBT", "cognitive behavioral therapy", "interpersonal psychotherapy", "IPT-A", "talk therapy"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "For depressed adolescents, both CBT and interpersonal psychotherapy are well-established interventions with evidence of efficacy in multiple independent trials. IPT-A helps adolescents handle relationship problems that contribute to depression.",
+              "rationale_source": "AACAP / CDC",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Resource_Centers/Depression_Resource_Center/Resources_for_Clinicians_Depression.aspx",
+                  "what_it_said": "For depressed adolescents, both CBT and interpersonal psychotherapy are well-established interventions, with evidence of efficacy in multiple trials by independent investigative teams. Evidence for pre-pubertal children is notably weaker than for adolescent interventions."
+                },
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/treatment/index.html",
+                  "what_it_said": "Adolescents with depression may respond well to interpersonal psychotherapy, an approach in which therapists help adolescents learn ways to handle relationship problems."
+                }
+              ],
+              "source_notes": "AACAP identifies CBT and IPT as the two well-established psychotherapies for adolescent depression."
+            },
+            {
+              "intervention": "Medication Management (Fluoxetine / SSRI)",
+              "common_aliases": ["SSRI", "fluoxetine", "antidepressant", "medication management"],
+              "category": "medication_management",
+              "severity_if_missing": "high",
+              "rationale": "A combination of psychotherapy and antidepressant medication appears to be the most effective treatment for adolescents with major depressive disorder, with combined fluoxetine plus CBT also offering increased protection from suicidality.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Resource_Centers/Depression_Resource_Center/Resources_for_Clinicians_Depression.aspx",
+                  "what_it_said": "A combination of psychotherapy and antidepressant medication appears to be the most effective treatment for adolescents with major depressive disorder, more than medication alone or psychotherapy alone, per a major NIMH-funded clinical trial."
+                },
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/aacap/families_and_youth/Resources/Psychiatric_Medication/The_Treatment_for_Adolescents_with_Depression_Study_TADS.aspx",
+                  "what_it_said": "There is incremental improvement in outcome when cognitive-behavioral psychotherapy is combined with fluoxetine and, importantly, increased protection from suicidality; CBT should be readily available as part of comprehensive treatment for depressed adolescents."
+                }
+              ],
+              "source_notes": "Based on the NIMH-funded TADS trial summarized by AACAP. Medication requires monitoring for adverse events including suicidality."
+            },
+            {
+              "intervention": "Suicide Risk Screening and Safety Monitoring",
+              "common_aliases": ["suicide risk screening", "depression and suicide screening", "safety assessment", "risk assessment"],
+              "category": "evaluation",
+              "severity_if_missing": "high",
+              "rationale": "Depressed adolescents are at increased risk of self-harm, and the AAP recommends that all youth aged 12 and over be screened for depression and suicide risk during yearly checkups so risk can be identified and managed.",
+              "rationale_source": "AAP / AACAP",
+              "sources": [
+                {
+                  "organization": "AAP",
+                  "url": "https://www.healthychildren.org/English/healthy-living/emotional-wellness/Pages/teen-suicide-risk-what-parents-need-to-know.aspx",
+                  "what_it_said": "Because adolescents who experience depression are more likely to attempt suicide, the American Academy of Pediatrics recommends that all kids aged 12 and over be screened for depression and suicide risks in yearly health checkups."
+                },
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/The-Depressed-Child-004.aspx",
+                  "what_it_said": "Depressed children and adolescents are at higher risk of self-harm, so statements about self-harm should be taken seriously and discussed with the child's pediatrician or a mental health professional."
+                }
+              ],
+              "source_notes": "Screening links depression care to the self_harm_risk pathway. The USPSTF recommends depression screening for adolescents ages 12 to 18 per CDC."
+            }
+          ]
+        }
+      }
+    },
+    "trauma_response": {
+      "display_name": "Trauma Response",
+      "age_groups": {
+        "3-5": {
+          "recommended": [
+            {
+              "intervention": "Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)",
+              "common_aliases": ["TF-CBT", "trauma-focused CBT", "trauma-focused cognitive behavioral therapy"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "TF-CBT is an evidence-based, SAMHSA-recognized treatment for children who have experienced trauma, designed for ages 3 to 18, that builds coping skills and processes the traumatic experience with caregiver involvement.",
+              "rationale_source": "SAMHSA",
+              "sources": [
+                {
+                  "organization": "SAMHSA",
+                  "url": "https://www.samhsa.gov/resource/dbhis/trauma-focused-cognitive-behavioral-therapy-tf-cbt",
+                  "what_it_said": "Trauma-Focused Cognitive Behavioral Therapy is a model used with children who have experienced a wide array of types of trauma, and the page reviews relevant research findings and resources for finding certified TF-CBT therapists."
+                },
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Resource_Centers/Disaster_Resource_Center/Resources_for_Parents_Disaster.aspx",
+                  "what_it_said": "AACAP directs families to trauma resources including the National Child Traumatic Stress Network and SAMHSA's trauma-informed guidance for children exposed to trauma."
+                }
+              ],
+              "source_notes": "TF-CBT is established for ages 3-18; for the youngest children it is delivered with heavy caregiver involvement."
+            },
+            {
+              "intervention": "Play Therapy with Caregiver Involvement",
+              "common_aliases": ["play therapy", "child-centered play therapy", "child-parent therapy", "CCPT"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Young children may express the effects of trauma through play; play therapy helps them recognize, identify, and verbalize feelings in a safe, accepting relationship.",
+              "rationale_source": "AACAP / University of North Texas Center for Play Therapy",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Psychotherapies-For-Children-And-Adolescents-086.aspx",
+                  "what_it_said": "Play Therapy uses toys, drawings, and games to help the child recognize, identify, and verbalize feelings, providing an opportunity to better understand and manage conflicts, feelings, and behavior."
+                },
+                {
+                  "organization": "University of North Texas Center for Play Therapy",
+                  "url": "https://cpt.unt.edu/about-play-therapy/child-centered-play-therapy",
+                  "what_it_said": "Child-Centered Play Therapy provides a safe, consistent therapeutic environment in which a child can experience full acceptance, empathy, and understanding and process inner experiences and feelings through play."
+                }
+              ],
+              "source_notes": "Play therapy is a recognized modality for young children; for trauma specifically, TF-CBT has the strongest evidence and play-based work supports the youngest age group."
+            },
+            {
+              "intervention": "Comprehensive Trauma Evaluation",
+              "common_aliases": ["trauma evaluation", "mental health evaluation", "PTSD assessment"],
+              "category": "evaluation",
+              "severity_if_missing": "high",
+              "rationale": "Early identification of PTSD is important, and assessment should gather information from both parents and children, especially for young children where caregiver report is essential.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Resource_Centers/Disaster_Resource_Center/Resources_for_Clinicians_Disaster.aspx",
+                  "what_it_said": "AACAP's practice parameter highlights the importance of early identification of posttraumatic stress disorder and of gathering information from both parents and children, along with assessment of comorbid disorders."
+                }
+              ],
+              "source_notes": "Reflects AACAP PTSD practice parameter guidance; full parameter text is subscription-based on the publisher site."
+            }
+          ]
+        },
+        "6-12": {
+          "recommended": [
+            {
+              "intervention": "Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)",
+              "common_aliases": ["TF-CBT", "trauma-focused CBT", "trauma-focused cognitive behavioral therapy"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "Trauma-focused psychotherapies have the most empirical support for children, and TF-CBT, a family-focused model with strong evidence, improves PTSD, depressive, anxiety, behavioral, and relationship problems.",
+              "rationale_source": "SAMHSA / AACAP",
+              "sources": [
+                {
+                  "organization": "SAMHSA",
+                  "url": "https://www.samhsa.gov/resource/dbhis/trauma-focused-cognitive-behavioral-therapy-tf-cbt",
+                  "what_it_said": "TF-CBT is a model used with children who have experienced a wide array of types of trauma, and SAMHSA provides reviews of relevant research and resources for finding certified therapists."
+                },
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Resource_Centers/Disaster_Resource_Center/Resources_for_Clinicians_Disaster.aspx",
+                  "what_it_said": "AACAP guidance supports trauma-focused psychotherapy, including cognitive-behavioral therapy, for the treatment of children and adolescents with PTSD."
+                }
+              ],
+              "source_notes": "SAMHSA and AACAP both identify trauma-focused CBT as the leading evidence-based treatment for traumatized children."
+            },
+            {
+              "intervention": "School-Based Trauma-Informed Support",
+              "common_aliases": ["school-based counseling", "trauma-informed school support", "school mental health services", "504 plan"],
+              "category": "school_support",
+              "severity_if_missing": "high",
+              "rationale": "Treatment of children with PTSD should include consultation with school personnel, and school-based screening and treatment are an efficient way to identify and treat affected children after traumatic events.",
+              "rationale_source": "AACAP / SAMHSA",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Resource_Centers/Disaster_Resource_Center/Resources_for_Clinicians_Disaster.aspx",
+                  "what_it_said": "Treatment of children with PTSD symptoms should include consultation with school personnel, and school-based screening and treatments should be considered after community-level traumatic events as an efficient way to identify and treat affected children."
+                },
+                {
+                  "organization": "SAMHSA",
+                  "url": "https://www.samhsa.gov/mental-health/children-and-families/school-health/tiss",
+                  "what_it_said": "The Trauma-Informed Services in Schools program increases student access to evidence-based, culturally relevant trauma support services and mental health care by linking local school systems with trauma-informed support and mental health systems."
+                }
+              ],
+              "source_notes": "SAMHSA's TISS program is the federal model for school-based trauma-informed support, directly relevant to a school-based care plan system."
+            },
+            {
+              "intervention": "Family Therapy / Caregiver Involvement",
+              "common_aliases": ["family therapy", "caregiver involvement", "parent sessions", "family counseling"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Greater parental support and lower parental distress predict more positive outcomes after child trauma, and involving caregivers in treatment effectively improves the child's recovery.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Resource_Centers/Disaster_Resource_Center/Resources_for_Clinicians_Disaster.aspx",
+                  "what_it_said": "AACAP guidance supports trauma-focused psychotherapy including family therapy, and education of the child and parents, as part of a multimodal approach to childhood PTSD."
+                }
+              ],
+              "source_notes": "Caregiver involvement is a core element of TF-CBT and AACAP's multimodal PTSD approach."
+            }
+          ]
+        },
+        "13-18": {
+          "recommended": [
+            {
+              "intervention": "Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)",
+              "common_aliases": ["TF-CBT", "trauma-focused CBT", "trauma-focused cognitive behavioral therapy"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "TF-CBT is established for youth through age 18 and has the strongest research evidence of any therapy for traumatized youth, teaching skills to manage emotions, build healthy coping, and rebuild a sense of safety.",
+              "rationale_source": "SAMHSA",
+              "sources": [
+                {
+                  "organization": "SAMHSA",
+                  "url": "https://www.samhsa.gov/resource/dbhis/trauma-focused-cognitive-behavioral-therapy-tf-cbt",
+                  "what_it_said": "TF-CBT is used with children and adolescents who have experienced a wide array of types of trauma, and SAMHSA reviews the research and provides resources for finding certified therapists."
+                }
+              ],
+              "source_notes": "TF-CBT applies through adolescence; caregiver involvement remains a recommended component where feasible."
+            },
+            {
+              "intervention": "Cognitive Behavioral Therapy (CBT)",
+              "common_aliases": ["CBT", "cognitive behavioral therapy", "exposure therapy"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Trauma-focused psychotherapies with cognitive-behavioral techniques have the most empirical support for adolescents, including exposure to the traumatic memory, anxiety management, and correcting distorted trauma-related thoughts.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Resource_Centers/Disaster_Resource_Center/Resources_for_Clinicians_Disaster.aspx",
+                  "what_it_said": "AACAP supports trauma-focused psychotherapy including cognitive-behavioral therapy as having strong support for the treatment of adolescents with posttraumatic stress disorder."
+                }
+              ],
+              "source_notes": "CBT techniques underpin trauma-focused therapy for adolescents."
+            },
+            {
+              "intervention": "Medication Management (Adjunct, Multimodal)",
+              "common_aliases": ["medication management", "SSRI", "pharmacotherapy", "psychiatric medication"],
+              "category": "medication_management",
+              "severity_if_missing": "moderate",
+              "rationale": "Pharmacotherapy may be considered as part of a multimodal approach to children and adolescents with PTSD, typically alongside trauma-focused psychotherapy rather than as a stand-alone treatment.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Resource_Centers/Disaster_Resource_Center/Resources_for_Clinicians_Disaster.aspx",
+                  "what_it_said": "AACAP guidance states that pharmacotherapy may be considered in the multimodal approach to children with PTSD, in combination with trauma-focused psychotherapy."
+                }
+              ],
+              "source_notes": "Evidence for SSRIs in pediatric PTSD is limited; medication is an adjunct within a multimodal plan and is the most uncertain recommendation here."
+            }
+          ]
+        }
+      }
+    },
+    "oppositional_defiant_behavior": {
+      "display_name": "Oppositional and Defiant Behavior",
+      "age_groups": {
+        "3-5": {
+          "recommended": [
+            {
+              "intervention": "Parent Management Training",
+              "common_aliases": ["parent management training", "PMT", "behavioral parent training", "PCIT", "parent behavior therapy"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "For younger children with oppositional and defiant behavior, the treatment with the strongest evidence is behavior therapy training for parents, where a therapist helps the parent strengthen the parent-child relationship and respond effectively to the child's behavior.",
+              "rationale_source": "CDC / AACAP",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/about/about-behavior-or-conduct-problems-in-children.html",
+                  "what_it_said": "For younger children, the treatment with the strongest evidence is behavior therapy training for parents, where a therapist helps the parent learn effective ways to strengthen the parent-child relationship and respond to the child's behavior."
+                },
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/odd_practice_parameter.pdf",
+                  "what_it_said": "Parent management training in the use of contingency management methods is one of the most substantiated treatment approaches in child mental health, working to reduce reinforcement of disruptive behavior and increase reinforcement of prosocial, compliant behavior."
+                }
+              ],
+              "source_notes": "Strong consensus from CDC and AACAP that parent-focused behavior therapy is first-line for young children with ODD."
+            },
+            {
+              "intervention": "Comprehensive Behavioral Evaluation",
+              "common_aliases": ["behavioral evaluation", "comprehensive evaluation", "mental health evaluation"],
+              "category": "evaluation",
+              "severity_if_missing": "high",
+              "rationale": "A behavior disorder may be diagnosed when disruptive behaviors are uncommon for the child's age, persistent, or severe; a comprehensive evaluation helps get the right diagnosis and identify learning or other contributing problems.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/about/about-behavior-or-conduct-problems-in-children.html",
+                  "what_it_said": "The first step to treatment is to talk with a health care provider, and a comprehensive evaluation by a mental health professional may be needed to get the right diagnosis, since some signs could be related to learning problems."
+                }
+              ],
+              "source_notes": "CDC frames evaluation as the first step before treatment for behavior problems."
+            }
+          ]
+        },
+        "6-12": {
+          "recommended": [
+            {
+              "intervention": "Parent Management Training",
+              "common_aliases": ["parent management training", "PMT", "behavioral parent training"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "Parent training in behavior management works well for disruptive behavior disorders, including oppositional defiant disorder, and is a core component of effective treatment for school-age children.",
+              "rationale_source": "CDC / AACAP",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/treatment/index.html",
+                  "what_it_said": "Parent training in behavior management works well for disruptive behavior disorders, including oppositional defiant disorder and conduct disorder, and child behavior therapy also works well."
+                },
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/odd_practice_parameter.pdf",
+                  "what_it_said": "Parent management training is one of the most substantiated treatment approaches in child mental health and is effective in both community and clinical samples."
+                }
+              ],
+              "source_notes": "Parent training remains central for school-age ODD and is combined with child- and school-based components."
+            },
+            {
+              "intervention": "Combined School Intervention, Individual Therapy, and Parent Training",
+              "common_aliases": ["school-based intervention", "school-based counseling", "combined treatment", "behavior support plan"],
+              "category": "school_support",
+              "severity_if_missing": "high",
+              "rationale": "For school-age children and teens, an often-used effective treatment is a combination of training and therapy that includes the child, the family, and the school, ensuring strategies are reinforced across settings.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/about/about-behavior-or-conduct-problems-in-children.html",
+                  "what_it_said": "For school-age children and teens, an often-used effective treatment is a combination of training and therapy that includes the child, the family, and the school."
+                }
+              ],
+              "source_notes": "School-based intervention is explicitly part of the recommended combination for school-age oppositional behavior."
+            },
+            {
+              "intervention": "Individual Problem-Solving Skills Training",
+              "common_aliases": ["problem-solving skills training", "individual therapy", "cognitive problem-solving", "anger management"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "One of the two evidence-based treatment types for youth with ODD is an individual approach in the form of problem-solving skills training, which helps the child develop more effective ways of handling conflict and frustration.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/odd_practice_parameter.pdf",
+                  "what_it_said": "The two types of evidence-based treatments for youth with ODD are individual approaches in the form of problem-solving skills training and family interventions."
+                }
+              ],
+              "source_notes": "AACAP identifies problem-solving skills training as an evidence-based individual approach for ODD."
+            }
+          ]
+        },
+        "13-18": {
+          "recommended": [
+            {
+              "intervention": "Individual Therapy Combined with Parent Training",
+              "common_aliases": ["individual therapy", "parent management training", "combined treatment", "problem-solving therapy"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Treatment of ODD should be multimodal, combining individual psychotherapy and parent/family interventions; problem-solving skills training and parent management training are the evidence-based components for older youth.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/odd_practice_parameter.pdf",
+                  "what_it_said": "Treatment of ODD should be multitarget, multimodal, and extensive, combining individual psychotherapy, family psychotherapy, and ecological interventions including school-based interventions, especially when severe and persistent."
+                }
+              ],
+              "source_notes": "AACAP supports a multimodal combination for adolescents with persistent oppositional behavior."
+            },
+            {
+              "intervention": "Family Therapy",
+              "common_aliases": ["family therapy", "functional family therapy", "family intervention", "family counseling"],
+              "category": "therapy",
+              "severity_if_missing": "high",
+              "rationale": "Family interventions are one of the two evidence-based treatment types for youth with ODD, and adolescents with disruptive behavior disorders may respond well to family therapy that improves communication and conflict resolution.",
+              "rationale_source": "AACAP / CDC",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/odd_practice_parameter.pdf",
+                  "what_it_said": "The two types of evidence-based treatments for youth with ODD are individual problem-solving skills training and family interventions."
+                },
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/treatment/index.html",
+                  "what_it_said": "Adolescents with disruptive behavior disorders may respond well to family therapy, an approach that includes multiple members of the family and focuses on learning better communication skills and ways to settle conflicts."
+                }
+              ],
+              "source_notes": "Both AACAP and CDC endorse family-based approaches for adolescent oppositional behavior."
+            },
+            {
+              "intervention": "Assessment and Treatment of Co-Occurring Conditions",
+              "common_aliases": ["comorbidity assessment", "co-occurring conditions evaluation", "dual diagnosis assessment"],
+              "category": "evaluation",
+              "severity_if_missing": "high",
+              "rationale": "Youth with oppositional behavior are predisposed to depression, anxiety, and substance use, so they should be assessed regularly and modifiable risk factors such as bullying addressed.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/odd_practice_parameter.pdf",
+                  "what_it_said": "AACAP guidance emphasizes identifying and treating comorbidities and modifiable risk factors, as youth with oppositional behavior are predisposed to developing depression, anxiety, and substance use."
+                }
+              ],
+              "source_notes": "Comorbidity screening becomes especially important during adolescence."
+            }
+          ]
+        }
+      }
+    },
+    "social_isolation": {
+      "display_name": "Social Isolation and Withdrawal",
+      "age_groups": {
+        "3-5": {
+          "recommended": [
+            {
+              "intervention": "Comprehensive Developmental and Mental Health Evaluation",
+              "common_aliases": ["developmental evaluation", "mental health evaluation", "comprehensive evaluation"],
+              "category": "evaluation",
+              "severity_if_missing": "high",
+              "rationale": "Withdrawal from people and activities can be a sign of an underlying anxiety disorder, depression, trauma, or a developmental condition, so a careful evaluation is needed to identify the cause and the right treatment.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/about/about-anxiety-and-depression-in-children.html",
+                  "what_it_said": "Some of the signs and symptoms of anxiety or depression in children could be caused by other conditions, such as trauma, so it is important to get a careful evaluation to get the best diagnosis and treatment."
+                }
+              ],
+              "source_notes": "Social isolation is a behavioral presentation rather than a diagnosis; evaluation determines whether it reflects anxiety, depression, trauma, or a developmental condition."
+            },
+            {
+              "intervention": "Play Therapy",
+              "common_aliases": ["play therapy", "child-centered play therapy", "CCPT"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "Play therapy can help socially withdrawn young children experiencing social, emotional, and relational difficulties to process feelings and improve overall functioning within a supportive relationship.",
+              "rationale_source": "University of North Texas Center for Play Therapy / AACAP",
+              "sources": [
+                {
+                  "organization": "University of North Texas Center for Play Therapy",
+                  "url": "https://cpt.unt.edu/about-play-therapy/child-centered-play-therapy",
+                  "what_it_said": "Child-Centered Play Therapy is a developmentally responsive intervention for young children ages 3 to 10 experiencing social, emotional, behavioral, and relational disorders, with outcomes including decreased symptomatic behaviors and improved overall functioning."
+                },
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Psychotherapies-For-Children-And-Adolescents-086.aspx",
+                  "what_it_said": "Play Therapy helps the child recognize, identify, and verbalize feelings and better understand and manage their feelings and behavior."
+                }
+              ],
+              "source_notes": "CCPT explicitly targets social and relational difficulties in young children."
+            }
+          ]
+        },
+        "6-12": {
+          "recommended": [
+            {
+              "intervention": "School-Based Counseling and Peer Connection Support",
+              "common_aliases": ["school-based counseling", "school counseling", "peer support", "social-emotional support"],
+              "category": "school_support",
+              "severity_if_missing": "high",
+              "rationale": "Difficulty getting along with or socializing with others that interferes with daily life can warrant support; school counseling can monitor functioning and foster peer connection, and the school can be part of the treatment plan.",
+              "rationale_source": "AACAP / CDC",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/When-To-Seek-Help-For-Your-Child-024.aspx",
+                  "what_it_said": "Strong worries or anxieties that get in the way of daily life, such as at school or socializing, may indicate that a child and adolescent psychiatric evaluation will be useful."
+                },
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/about/about-anxiety-and-depression-in-children.html",
+                  "what_it_said": "Behavior therapy can include child therapy, family therapy, or a combination of both, and the school can also be included in the treatment plan."
+                }
+              ],
+              "source_notes": "No listed organization provides intervention guidance for social isolation as a standalone condition; recommendations are extrapolated from guidance on social difficulty linked to anxiety and depression."
+            },
+            {
+              "intervention": "Cognitive Behavioral Therapy (CBT) for Underlying Anxiety or Depression",
+              "common_aliases": ["CBT", "cognitive behavioral therapy", "talk therapy"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "When withdrawal reflects an underlying anxiety or depressive condition, CBT helps the child change negative thoughts into more effective ways of thinking and coping, supporting re-engagement with peers and activities.",
+              "rationale_source": "CDC",
+              "sources": [
+                {
+                  "organization": "CDC",
+                  "url": "https://www.cdc.gov/children-mental-health/about/about-anxiety-and-depression-in-children.html",
+                  "what_it_said": "Cognitive-behavioral therapy helps the child change negative thoughts into more positive, effective ways of thinking and coping, leading to more effective behavior."
+                }
+              ],
+              "source_notes": "CBT is indicated when social withdrawal is driven by an identifiable anxiety or depressive condition."
+            },
+            {
+              "intervention": "Social Skills Training",
+              "common_aliases": ["social skills training", "social skills group", "peer interaction training"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "Structured social skills support can provide opportunities to practice peer interaction for children whose isolation is linked to social difficulties.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/When-To-Seek-Help-For-Your-Child-024.aspx",
+                  "what_it_said": "AACAP lists difficulties with socializing and getting along with others as signs that a child and adolescent psychiatric evaluation may be useful."
+                }
+              ],
+              "source_notes": "The social skills training modality has its strongest direct evidence in autism and peer-relationship contexts; its application to general social isolation here is extrapolated, and the cited AACAP source establishes social difficulty as a clinical concern rather than endorsing this specific modality."
+            }
+          ]
+        },
+        "13-18": {
+          "recommended": [
+            {
+              "intervention": "Evaluation for Depression, Anxiety, and Suicide Risk",
+              "common_aliases": ["mental health evaluation", "depression screening", "suicide risk assessment", "risk screening"],
+              "category": "evaluation",
+              "severity_if_missing": "high",
+              "rationale": "Social isolation is a recognized risk factor for youth suicide, and withdrawing from activities and isolating from family and friends are warning signs, so evaluation for depression, anxiety, and suicide risk is important.",
+              "rationale_source": "AAP",
+              "sources": [
+                {
+                  "organization": "AAP",
+                  "url": "https://www.aap.org/en/patient-care/blueprint-for-youth-suicide-prevention/risk-factors-protective-factors-warning-signs-of-youth-suicide/",
+                  "what_it_said": "Social isolation is identified as a risk factor for youth suicide, and behavior changes such as withdrawing from activities and isolating from family and friends are common warning signs."
+                }
+              ],
+              "source_notes": "Links social isolation in adolescents to the self_harm_risk pathway per AAP's youth suicide prevention blueprint."
+            },
+            {
+              "intervention": "Cognitive Behavioral Therapy (CBT)",
+              "common_aliases": ["CBT", "cognitive behavioral therapy", "talk therapy"],
+              "category": "therapy",
+              "severity_if_missing": "moderate",
+              "rationale": "CBT helps adolescents identify and change unhelpful thought patterns that maintain withdrawal and avoidance, supporting re-engagement with peers, school, and activities.",
+              "rationale_source": "NIMH",
+              "sources": [
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/health/topics/psychotherapies",
+                  "what_it_said": "Cognitive behavioral therapy helps a person question inaccurate or harmful thoughts, understand how thoughts affect emotions and behavior, and change self-defeating behavior patterns."
+                }
+              ],
+              "source_notes": "Indicated where withdrawal is driven by an underlying anxiety or depressive condition."
+            },
+            {
+              "intervention": "School-Based Counseling and Connection",
+              "common_aliases": ["school-based counseling", "school counseling", "connectedness support"],
+              "category": "school_support",
+              "severity_if_missing": "moderate",
+              "rationale": "Connections to family, friends, and community are protective factors against youth suicide, and school counseling can help re-establish supportive relationships for isolated adolescents.",
+              "rationale_source": "AAP",
+              "sources": [
+                {
+                  "organization": "AAP",
+                  "url": "https://www.aap.org/en/patient-care/blueprint-for-youth-suicide-prevention/risk-factors-protective-factors-warning-signs-of-youth-suicide/",
+                  "what_it_said": "Protective factors include coping and problem-solving skills, connections to family, friends, and community, and supportive relationships with caregivers."
+                }
+              ],
+              "source_notes": "Fostering connectedness is a protective factor; school is a primary setting for building it."
+            }
+          ]
+        }
+      }
+    },
+    "self_harm_risk": {
+      "display_name": "Self-Harm Risk",
+      "age_groups": {
+        "3-5": {
+          "recommended": [
+            {
+              "intervention": "Immediate Comprehensive Mental Health Evaluation",
+              "common_aliases": ["mental health evaluation", "comprehensive evaluation", "urgent psychiatric evaluation"],
+              "category": "evaluation",
+              "severity_if_missing": "critical",
+              "rationale": "There are no suicide-screening tools validated for children under 8, so when self-harm risk is suspected in a young child a full mental health evaluation is recommended rather than brief screening.",
+              "rationale_source": "NIMH",
+              "sources": [
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials",
+                  "what_it_said": "The ASQ is designed to screen patients ages 8 years and above; as there are no tools validated for use in children under the age of 8, if suicide risk is suspected in younger children a full mental health evaluation is recommended instead of screening."
+                }
+              ],
+              "source_notes": "Self-harm risk is rare and atypical at this age; any concern warrants urgent professional evaluation. This knowledge base is not a crisis response tool."
+            },
+            {
+              "intervention": "Crisis Resources and Caregiver Safety Guidance (988)",
+              "common_aliases": ["988", "crisis line", "988 Suicide and Crisis Lifeline", "crisis services", "means restriction"],
+              "category": "community_support",
+              "severity_if_missing": "critical",
+              "rationale": "The 988 Suicide and Crisis Lifeline provides free, confidential support 24/7 for anyone in crisis or emotional distress, and caregivers should reduce access to potential means of harm in the home.",
+              "rationale_source": "SAMHSA / NIMH",
+              "sources": [
+                {
+                  "organization": "SAMHSA",
+                  "url": "https://www.samhsa.gov/mental-health/988/faqs",
+                  "what_it_said": "The 988 Suicide & Crisis Lifeline is a national hotline offering one-on-one support for mental health, suicide, and substance use-related problems for anyone 24/7 by call, text, or chat."
+                },
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/health/publications/suicide-faq",
+                  "what_it_said": "Increasing safe storage of lethal means can help reduce suicide attempts and deaths by suicide, and creating a safety or crisis response plan can help reduce a person's risk."
+                }
+              ],
+              "source_notes": "Crisis resources and means restriction apply across all ages; caregiver-led for young children."
+            }
+          ]
+        },
+        "6-12": {
+          "recommended": [
+            {
+              "intervention": "Suicide Risk Screening and Brief Suicide Safety Assessment",
+              "common_aliases": ["suicide risk screening", "ASQ", "brief suicide safety assessment", "BSSA", "risk assessment"],
+              "category": "evaluation",
+              "severity_if_missing": "critical",
+              "rationale": "Validated screening (the ASQ) identifies youth ages 8 and above who require further assessment, and those who screen positive should receive a brief suicide safety assessment by a trained clinician to determine next steps.",
+              "rationale_source": "NIMH",
+              "sources": [
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials/youth-asq-toolkit",
+                  "what_it_said": "Patients who screen positive for suicide risk on the ASQ should receive a brief suicide safety assessment conducted by a trained clinician to determine if a more comprehensive mental health evaluation is needed; the materials can be used in settings such as the school nursing office."
+                }
+              ],
+              "source_notes": "NIMH ASQ is validated for ages 8 and above and is usable in school settings, directly relevant to a school-based system."
+            },
+            {
+              "intervention": "Safety Planning and Lethal Means Restriction",
+              "common_aliases": ["safety planning", "safety plan", "crisis response plan", "means restriction", "lethal means counseling"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "Creating a safety plan or crisis response plan with specific steps to get help, staying connected and following up, and increasing safe storage of lethal means all help reduce the risk of acting on suicidal thoughts.",
+              "rationale_source": "NIMH",
+              "sources": [
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/health/publications/suicide-faq",
+                  "what_it_said": "Research has shown that creating a safety plan or crisis response plan can help reduce a person's risk of acting on suicidal thoughts, that staying connected and following up helps lower risk, and that increasing safe storage of lethal means can help reduce suicide attempts and deaths."
+                }
+              ],
+              "source_notes": "Safety planning is a clinician-led intervention; means restriction requires caregiver participation."
+            },
+            {
+              "intervention": "988 Suicide and Crisis Lifeline and Crisis Services",
+              "common_aliases": ["988", "988 Suicide and Crisis Lifeline", "crisis line", "crisis services", "mobile crisis team"],
+              "category": "community_support",
+              "severity_if_missing": "critical",
+              "rationale": "The 988 Suicide and Crisis Lifeline provides free, confidential, 24/7 support and can connect youth and families to community-based crisis resources, including mobile crisis teams.",
+              "rationale_source": "SAMHSA / NIMH",
+              "sources": [
+                {
+                  "organization": "SAMHSA",
+                  "url": "https://www.samhsa.gov/mental-health/988/faqs",
+                  "what_it_said": "Anyone can call or text 988 or chat online 24/7 to connect with a skilled, compassionate crisis counselor; reasons for contacting the Lifeline include emotional distress, anxiety, depression, bullying, and trauma, not only suicide."
+                },
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health",
+                  "what_it_said": "If a child, teen, or someone you know needs immediate help, call or text the 988 Suicide & Crisis Lifeline, which provides free and confidential support 24 hours a day."
+                }
+              ],
+              "source_notes": "Crisis services are a critical safety net across all school-age and adolescent self-harm risk."
+            }
+          ]
+        },
+        "13-18": {
+          "recommended": [
+            {
+              "intervention": "Dialectical Behavior Therapy (DBT)",
+              "common_aliases": ["DBT", "dialectical behavior therapy", "DBT-A"],
+              "category": "therapy",
+              "severity_if_missing": "critical",
+              "rationale": "DBT is the first well-established, empirically supported treatment for decreasing repeated suicide attempts and self-harm in youths, reducing suicide attempts and non-suicidal self-injury in high-risk adolescents.",
+              "rationale_source": "NIMH / University of Washington",
+              "sources": [
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/news/science-updates/2018/therapy-reduces-risk-in-suicidal-youth",
+                  "what_it_said": "A clinical trial showed that dialectical behavior therapy can reduce suicide attempts and suicidal behavior in adolescents; by the end of six months, suicide attempts and non-suicidal self-injury were significantly less likely in youth receiving DBT than in those receiving supportive therapy."
+                },
+                {
+                  "organization": "University of Washington (McCauley et al., JAMA Psychiatry 2018)",
+                  "url": "http://depts.washington.edu/uwbrtc/wp-content/uploads/jamapsychiatry_McCauley_2018_oi_180032.pdf",
+                  "what_it_said": "Results support DBT as the first well-established, empirically supported treatment for decreasing repeated suicide attempts and self-harm in highly suicidal, self-harming adolescents."
+                }
+              ],
+              "source_notes": "DBT-A evidence is strongest for adolescents ages 12-18; the advantage over supportive therapy was significant at the end of treatment and narrowed by 6-12 months."
+            },
+            {
+              "intervention": "Suicide Risk Assessment and Safety Planning",
+              "common_aliases": ["suicide risk assessment", "safety planning", "safety plan", "ASQ", "lethal means restriction"],
+              "category": "evaluation",
+              "severity_if_missing": "critical",
+              "rationale": "Asking directly about suicide does not increase risk and can open the door to help; screening and a safety plan with lethal means restriction reduce the risk of acting on suicidal thoughts.",
+              "rationale_source": "AAP / NIMH",
+              "sources": [
+                {
+                  "organization": "AAP",
+                  "url": "https://www.healthychildren.org/English/healthy-living/emotional-wellness/Pages/teen-suicide-risk-what-parents-need-to-know.aspx",
+                  "what_it_said": "If you are concerned about your child, ask them directly if they are thinking about suicide; studies show that asking about suicide will not put the idea into their head and could open the door to an honest conversation about their mental health."
+                },
+                {
+                  "organization": "NIMH",
+                  "url": "https://www.nimh.nih.gov/health/publications/suicide-faq",
+                  "what_it_said": "Creating a safety plan, staying connected and following up with people at risk, and increasing safe storage of lethal means have all been shown to help reduce suicide risk."
+                }
+              ],
+              "source_notes": "Risk assessment and safety planning should be conducted by trained clinicians; school staff should refer to mental health providers."
+            },
+            {
+              "intervention": "988 Crisis Services and Lethal Means Restriction",
+              "common_aliases": ["988", "988 Suicide and Crisis Lifeline", "crisis services", "means restriction", "emergency mental health"],
+              "category": "community_support",
+              "severity_if_missing": "critical",
+              "rationale": "Suicidal thoughts or actions should never be ignored; if a teen is in crisis, contacting 988 connects them with trained staff to determine immediate steps, and lethal means should be removed from the home.",
+              "rationale_source": "AAP / SAMHSA",
+              "sources": [
+                {
+                  "organization": "AAP",
+                  "url": "https://www.healthychildren.org/English/ages-stages/teen/Pages/Mental-Health-and-Teens-Watch-for-Danger-Signs.aspx",
+                  "what_it_said": "Suicidal thoughts or actions should never be ignored; if a teen is in crisis, call the 988 Suicide & Crisis Lifeline or text TALK to 741741, and trained lifeline staff will help figure out immediate steps to protect the child."
+                },
+                {
+                  "organization": "SAMHSA",
+                  "url": "https://www.samhsa.gov/mental-health/988/faqs",
+                  "what_it_said": "The 988 Suicide & Crisis Lifeline responds 24/7 to calls, chats, or texts and connects those in need with a counselor; mobile crisis teams can support people in their community environments."
+                }
+              ],
+              "source_notes": "Crisis access plus means restriction is a critical adolescent safety component."
+            },
+            {
+              "intervention": "Medication Management for Underlying Depression",
+              "common_aliases": ["medication management", "SSRI", "fluoxetine", "antidepressant"],
+              "category": "medication_management",
+              "severity_if_missing": "moderate",
+              "rationale": "When self-harm risk is driven by underlying depression, combined CBT plus fluoxetine offers increased protection from suicidality compared with medication alone, though antidepressants require close monitoring.",
+              "rationale_source": "AACAP",
+              "sources": [
+                {
+                  "organization": "AACAP",
+                  "url": "https://www.aacap.org/aacap/families_and_youth/Resources/Psychiatric_Medication/The_Treatment_for_Adolescents_with_Depression_Study_TADS.aspx",
+                  "what_it_said": "Combining cognitive-behavioral psychotherapy with fluoxetine provides incremental improvement and, importantly, increased protection from suicidality, with careful monitoring for adverse events recommended."
+                }
+              ],
+              "source_notes": "Medication targets underlying depression; SSRIs carry a monitored risk of increased suicidal thoughts in youth and are used alongside therapy and safety planning."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "therapy_to_query_map": {
+    "CBT": {
+      "samhsa_service_type": "outpatient_mental_health",
+      "samhsa_specialty": "cognitive_behavioral_therapy",
+      "places_query_term": "CBT therapist child adolescent",
+      "tavily_search_terms": ["cognitive behavioral therapy child", "CBT licensed therapist adolescent"],
+      "age_group_labels": {
+        "3-5": "early childhood",
+        "6-12": "child",
+        "13-18": "adolescent"
+      }
+    },
+    "DBT": {
+      "samhsa_service_type": "outpatient_mental_health",
+      "samhsa_specialty": "dialectical_behavior_therapy",
+      "places_query_term": "DBT therapist adolescent",
+      "tavily_search_terms": ["dialectical behavior therapy adolescent", "DBT-A program teen self-harm"],
+      "age_group_labels": {
+        "3-5": "early childhood",
+        "6-12": "child",
+        "13-18": "adolescent"
+      }
+    },
+    "TF-CBT": {
+      "samhsa_service_type": "outpatient_mental_health",
+      "samhsa_specialty": "trauma_focused_cognitive_behavioral_therapy",
+      "places_query_term": "TF-CBT trauma therapist child adolescent",
+      "tavily_search_terms": ["trauma-focused CBT certified therapist child", "TF-CBT therapist adolescent trauma"],
+      "age_group_labels": {
+        "3-5": "early childhood",
+        "6-12": "child",
+        "13-18": "adolescent"
+      }
+    },
+    "play therapy": {
+      "samhsa_service_type": "outpatient_mental_health",
+      "samhsa_specialty": "play_therapy",
+      "places_query_term": "play therapist young children",
+      "tavily_search_terms": ["child-centered play therapy young child", "registered play therapist children"],
+      "age_group_labels": {
+        "3-5": "early childhood",
+        "6-12": "child",
+        "13-18": "adolescent"
+      }
+    },
+    "school-based counseling": {
+      "samhsa_service_type": "school_based_mental_health",
+      "samhsa_specialty": "school_counseling",
+      "places_query_term": "school-based counseling services student",
+      "tavily_search_terms": ["school-based mental health counseling student", "school counselor support services"],
+      "age_group_labels": {
+        "3-5": "preschool / early childhood",
+        "6-12": "elementary student",
+        "13-18": "secondary student"
+      }
+    },
+    "family therapy": {
+      "samhsa_service_type": "outpatient_mental_health",
+      "samhsa_specialty": "family_therapy",
+      "places_query_term": "family therapist child adolescent",
+      "tavily_search_terms": ["family therapy child adolescent", "licensed family therapist counseling"],
+      "age_group_labels": {
+        "3-5": "early childhood",
+        "6-12": "child",
+        "13-18": "adolescent"
+      }
+    },
+    "parent management training": {
+      "samhsa_service_type": "outpatient_mental_health",
+      "samhsa_specialty": "parent_management_training",
+      "places_query_term": "parent management training behavior program",
+      "tavily_search_terms": ["parent management training program", "behavioral parent training PCIT child"],
+      "age_group_labels": {
+        "3-5": "early childhood",
+        "6-12": "child",
+        "13-18": "adolescent"
+      }
+    },
+    "interpersonal psychotherapy": {
+      "samhsa_service_type": "outpatient_mental_health",
+      "samhsa_specialty": "interpersonal_psychotherapy",
+      "places_query_term": "interpersonal psychotherapy adolescent depression",
+      "tavily_search_terms": ["interpersonal psychotherapy adolescents IPT-A", "IPT therapist teen depression"],
+      "age_group_labels": {
+        "3-5": "early childhood",
+        "6-12": "child",
+        "13-18": "adolescent"
+      }
+    },
+    "social skills training": {
+      "samhsa_service_type": "outpatient_mental_health",
+      "samhsa_specialty": "social_skills_training",
+      "places_query_term": "social skills group child adolescent",
+      "tavily_search_terms": ["social skills training group child", "social skills group adolescent"],
+      "age_group_labels": {
+        "3-5": "early childhood",
+        "6-12": "child",
+        "13-18": "adolescent"
+      }
+    },
+    "safety planning": {
+      "samhsa_service_type": "crisis_services",
+      "samhsa_specialty": "suicide_safety_planning",
+      "places_query_term": "youth crisis mental health services",
+      "tavily_search_terms": ["suicide safety planning adolescent clinician", "youth crisis stabilization services"],
+      "age_group_labels": {
+        "3-5": "early childhood",
+        "6-12": "child",
+        "13-18": "adolescent"
+      }
+    }
+  },
+  "gaps_and_limitations": [
+    {
+      "condition": "Autism Spectrum Disorder",
+      "what_was_missing": "Full text of AAP 2020 Clinical Report (e20193447) — only abstracts and summary snippets were accessible. Specific age-stratified recommendations within the AAP report could not be verified.",
+      "suggested_manual_lookup": "Access full text via institutional subscription at publications.aap.org or PubMed Central"
+    },
+    {
+      "condition": "Autism Spectrum Disorder",
+      "what_was_missing": "ABAI direct practice guidelines document — the ABAI Autism SIG Consumer Guidelines focus on practitioner qualifications, not patient-facing intervention recommendations.",
+      "suggested_manual_lookup": "Contact ABAI directly or review the CASP ABA Practice Guidelines (2024) at casproviders.org/asd-guidelines/"
+    },
+    {
+      "condition": "Autism Spectrum Disorder",
+      "what_was_missing": "Autism Speaks 100 Day Kit therapy and support section — full page content could not be fetched; only search snippets were available. Specific intervention dosage and frequency recommendations may exist there.",
+      "suggested_manual_lookup": "Download PDF from autismspeaks.org/tool-kit/100-day-kit-young-children"
+    },
+    {
+      "condition": "Autism Spectrum Disorder",
+      "what_was_missing": "Age-specific severity ratings for interventions — sources generally recommend interventions across 'children' without specifying differential severity by age bracket.",
+      "suggested_manual_lookup": "Consult the AAP Autism Toolkit at publications.aap.org/toolkits for age-stratified guidance"
+    },
+    {
+      "condition": "ADHD",
+      "what_was_missing": "Full text of AAP 2019 ADHD Clinical Practice Guideline — only abstracts and summaries were accessible. Detailed Key Action Statements and evidence grades could not be extracted directly.",
+      "suggested_manual_lookup": "Access via Pediatrics (2019) 144(4):e20192528 or AAP ADHD Toolkit"
+    },
+    {
+      "condition": "ADHD",
+      "what_was_missing": "Specific guidance on educational accommodations (504 plans, IEPs) for ADHD — not directly found in the sources retrieved beyond general references to 'school programming and supports'.",
+      "suggested_manual_lookup": "CHADD education section at chadd.org or US DOE IDEA resources"
+    },
+    {
+      "condition": "ADHD",
+      "what_was_missing": "Executive function coaching and specific CBT protocols for ADHD adolescents — not explicitly detailed in the retrieved sources.",
+      "suggested_manual_lookup": "Review CHADD's adolescent resources or AACAP practice parameters for adolescent ADHD"
+    },
+    {
+      "condition": "Speech and Language Delay",
+      "what_was_missing": "AAP developmental screening guidelines specific to speech/language — not separately retrieved. The AAP recommends universal developmental screening but specific speech/language screening ages were not found.",
+      "suggested_manual_lookup": "Review AAP Bright Futures Guidelines and Periodicity Schedule at aap.org"
+    },
+    {
+      "condition": "Speech and Language Delay",
+      "what_was_missing": "Specific intervention dosage recommendations (frequency, duration of sessions) — ASHA references individualized service levels but does not provide specific dosage recommendations in the retrieved pages.",
+      "suggested_manual_lookup": "Review ASHA Evidence Maps and DLD clinical practice guidelines for dosage research"
+    },
+    {
+      "condition": "Speech and Language Delay",
+      "what_was_missing": "Adolescent-specific (13-18) speech-language interventions — very limited source material found. ASHA and NIDCD primarily focus on younger children. The 13-18 age group section is thinner than other groups.",
+      "suggested_manual_lookup": "Review ASHA Practice Portal on Spoken Language Disorders school-age sections and DLD resources"
+    },
+    {
+      "condition": "Sensory Processing Disorder",
+      "what_was_missing": "Full text of AOTA Practice Guidelines for Sensory Integration — behind paywall. Only abstracts and table of contents were accessible.",
+      "suggested_manual_lookup": "Access via AOTA membership at library.aota.org or institutional subscription"
+    },
+    {
+      "condition": "Sensory Processing Disorder",
+      "what_was_missing": "SPD is not a standalone diagnosis in DSM-5 — sources do not consistently address SPD as an independent condition. Most AOTA literature frames sensory challenges in the context of ASD or other developmental conditions.",
+      "suggested_manual_lookup": "Review ongoing DSM diagnostic discussions and STAR Institute resources on SPD diagnostic validity research"
+    },
+    {
+      "condition": "Sensory Processing Disorder",
+      "what_was_missing": "Specific evidence-graded recommendations by age group — AOTA and STAR Institute do not differentiate recommendations by specific pediatric age brackets in retrieved sources.",
+      "suggested_manual_lookup": "Consult full AOTA Practice Guidelines document for age-specific evidence tables"
+    },
+    {
+      "condition": "All conditions",
+      "what_was_missing": "Severity ratings (critical/high/moderate) were assigned based on the emphasis and language used in sources (e.g., 'first line treatment' = critical, 'may be helpful' = moderate) but are not directly sourced classifications.",
+      "suggested_manual_lookup": "Verify severity assignments with clinical team review and AAP/AACAP evidence grading systems"
+    },
+    {
+      "condition": "MindScope conditions (all)",
+      "what_was_missing": "These seven conditions describe behavioral and emotional presentations reported by guidance counselors, not formal DSM-5 diagnoses. Recommendations were mapped from the closest evidence-based clinical literature for the corresponding disorders, so the fit between an observed presentation and the cited treatment evidence is approximate.",
+      "suggested_manual_lookup": "Have a licensed child/adolescent mental health clinician validate the presentation-to-intervention mapping before clinical use"
+    },
+    {
+      "condition": "Anxiety and School Avoidance",
+      "what_was_missing": "School avoidance/refusal is a behavioral presentation addressed in the literature primarily via separation anxiety and the broader anxiety disorders. Age-specific severity ratings were inferred from source emphasis (e.g., AACAP noting adolescent refusal is 'generally a more serious illness').",
+      "suggested_manual_lookup": "Review the full AACAP 2020 Clinical Practice Guideline for Anxiety Disorders (JAACAP) for graded, age-stratified recommendations"
+    },
+    {
+      "condition": "Emotional Dysregulation",
+      "what_was_missing": "Emotional dysregulation is not a standalone DSM diagnosis. Recommendations were mapped from disruptive mood dysregulation disorder (DMDD) and irritability literature. NIMH notes few DMDD-specific treatment studies exist, and DBT-C evidence for this presentation is still emerging.",
+      "suggested_manual_lookup": "Review NIMH DMDD research updates and emerging DBT-C trials for children with chronic irritability"
+    },
+    {
+      "condition": "Depression and Withdrawal",
+      "what_was_missing": "AACAP states evidence for treating depression in pre-pubertal children is notably weaker than for adolescents, so the 3-5 and parts of the 6-12 recommendations are extrapolated from general childhood depression/anxiety guidance rather than age-specific trials. Full text of the AACAP 2022 depression guideline was paywalled.",
+      "suggested_manual_lookup": "Access the full AACAP 2022 Clinical Practice Guideline for Major and Persistent Depressive Disorders for age-stratified evidence"
+    },
+    {
+      "condition": "Trauma Response",
+      "what_was_missing": "Full text of the AACAP PTSD Practice Parameter (JAACAP 2010) was behind a paywall; recommendations rely on the abstract and AACAP Disaster Resource Center summaries. Evidence for pharmacotherapy in pediatric PTSD is limited and the medication recommendation is the most uncertain in this condition.",
+      "suggested_manual_lookup": "Access the full AACAP PTSD Practice Parameter and current NCTSN treatment reviews for dosage and medication guidance"
+    },
+    {
+      "condition": "Oppositional and Defiant Behavior",
+      "what_was_missing": "The AACAP ODD Practice Parameter dates to 2007 and notes a limited comparative clinical trial literature. Parent management training effects can wane roughly 12 months after treatment ends, which is not reflected in the static severity ratings.",
+      "suggested_manual_lookup": "Review updated PMT/PCIT outcome research and any revised AACAP disruptive behavior guidance for durability of effects"
+    },
+    {
+      "condition": "Social Isolation and Withdrawal",
+      "what_was_missing": "Social isolation is not a clinical diagnosis, and none of the approved organizations publish intervention guidance for 'social isolation' as a standalone condition. Recommendations were extrapolated from guidance on social difficulty tied to anxiety/depression and from youth-suicide risk-factor literature. The social skills training modality has its strongest direct evidence in autism and peer-relationship contexts, not general isolation.",
+      "suggested_manual_lookup": "Seek peer-reviewed evidence on interventions targeting social withdrawal specifically, and confirm whether isolation is secondary to an underlying diagnosable condition"
+    },
+    {
+      "condition": "Self-Harm Risk",
+      "what_was_missing": "DBT-A evidence is strongest for adolescents ages 12-18; evidence for structured self-harm treatment in children under 12 is limited, and for children under 8 NIMH recommends a full mental health evaluation rather than screening. The McCauley 2018 RCT showed the DBT advantage narrowed by 6-12 months. This knowledge base is not a crisis-response tool.",
+      "suggested_manual_lookup": "Establish a clinician-led suicide risk protocol (e.g., NIMH ASQ + Brief Suicide Safety Assessment) and local crisis pathways; do not rely on this file for acute risk decisions"
+    }
+  ]
+}

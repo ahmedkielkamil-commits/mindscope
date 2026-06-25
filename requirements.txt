@@ -1,0 +1,6 @@
+python-dotenv
+requests
+tavily-python
+openai
+mysql-connector-python
+flask
